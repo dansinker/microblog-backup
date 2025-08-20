@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2025/08/20/anyway-saw-this-dog-today.html",
+				
+				"content_html": "<p>Anyway, saw this dog today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Anyway, saw this dog today.\n\n<img src=\"uploads/2025/85c99955b4.jpg\" width=\"337\" height=\"600\" alt=\"A dog dyed to resemble a tiger sits on a sidewalk while its owner, wearing a yellow shirt and cap, stands nearby on a sunny street.\">\n",
+				"date_published": "2025-08-20T00:36:29-05:00",
+				"url": "https://dansinker.micro.blog/2025/08/20/anyway-saw-this-dog-today.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2025/08/13/been-away-from-social-media.html",
+				
+				"content_html": "<p>Been away from social media for a minute, and coming back I&rsquo;m a little concerned that the water we&rsquo;re all in is very hot, my fellow frogs.</p>\n",
+				"content_text": "Been away from social media for a minute, and coming back I'm a little concerned that the water we're all in is very hot, my fellow frogs.\n",
+				"date_published": "2025-08-13T12:58:16-05:00",
+				"url": "https://dansinker.micro.blog/2025/08/13/been-away-from-social-media.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2025/08/10/honestly-for-me-personally-this.html",
 				
 				"content_html": "<p>Honestly for me personally this whole past week can fuck itself forever.</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://dansinker.micro.blog/2025/08/01/oh-do-you-think.html",
 				
 				"content_html": "<p>Oh do you think?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh do you think?\n\n<img src=\"uploads/2025/629d270515.png\" width=\"600\" height=\"312\" alt=\"&quot;Trump wants to box China out of global trade. That's proving hard to do.&quot;\">\n",
+				"content_text": "Oh do you think?\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/629d270515.png\" width=\"600\" height=\"312\" alt=\"&quot;Trump wants to box China out of global trade. That's proving hard to do.&quot;\">\n",
 				"date_published": "2025-08-01T17:37:34-05:00",
 				"url": "https://dansinker.micro.blog/2025/08/01/oh-do-you-think.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://dansinker.micro.blog/2025/07/31/perfect-night-to-cheer-for.html",
 				
 				"content_html": "<p>Perfect night to cheer for Edgewater FC.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Perfect night to cheer for Edgewater FC. \n\n<img src=\"uploads/2025/2f0ab865d7.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Perfect night to cheer for Edgewater FC. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/2f0ab865d7.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2025-07-31T20:14:59-05:00",
 				"url": "https://dansinker.micro.blog/2025/07/31/perfect-night-to-cheer-for.html"
 			},
@@ -66,7 +82,7 @@
 				"id": "http://dansinker.micro.blog/2025/07/22/dont-let-anyone-ever-tell.html",
 				
 				"content_html": "<p>Don&rsquo;t let anyone ever tell you that America wasn&rsquo;t already great.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Don't let anyone ever tell you that America wasn't already great.\n\n<img src=\"uploads/2025/059b9786d9.jpg\" width=\"337\" height=\"600\" alt=\"A cheez-it brand frozen pizza\">\n",
+				"content_text": "Don't let anyone ever tell you that America wasn't already great.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/059b9786d9.jpg\" width=\"337\" height=\"600\" alt=\"A cheez-it brand frozen pizza\">\n",
 				"date_published": "2025-07-22T19:05:48-05:00",
 				"url": "https://dansinker.micro.blog/2025/07/22/dont-let-anyone-ever-tell.html"
 			},
@@ -82,7 +98,7 @@
 				"id": "http://dansinker.micro.blog/2025/07/18/i-wrote-a-post-about.html",
 				
 				"content_html": "<p>I wrote a post about visiting the last stamp store in Chicago and living a life that&rsquo;s fun, but worthless. I really like this one, hope you do too. <a href=\"https://dansinker.com/posts/2025-07-18-stampking/\">dansinker.com/posts/202&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wrote a post about visiting the last stamp store in Chicago and living a life that's fun, but worthless. I really like this one, hope you do too. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-07-18-stampking/)\n\n<img src=\"uploads/2025/a10ea26ba1.jpg\" width=\"600\" height=\"337\" alt=\"Full chaos inside The Stamp King.\">\n",
+				"content_text": "I wrote a post about visiting the last stamp store in Chicago and living a life that's fun, but worthless. I really like this one, hope you do too. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-07-18-stampking/)\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/a10ea26ba1.jpg\" width=\"600\" height=\"337\" alt=\"Full chaos inside The Stamp King.\">\n",
 				"date_published": "2025-07-18T15:22:45-05:00",
 				"url": "https://dansinker.micro.blog/2025/07/18/i-wrote-a-post-about.html"
 			},
@@ -98,7 +114,7 @@
 				"id": "http://dansinker.micro.blog/2025/07/17/while-the-washington-post-continues.html",
 				
 				"content_html": "<p>While the Washington Post continues its decline let&rsquo;s remember that just earlier this year some clown in management set a goal of getting 200 million readers, an impossible number that will never happen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "While the Washington Post continues its decline let's remember that just earlier this year some clown in management set a goal of getting 200 million readers, an impossible number that will never happen. \n\n<img src=\"uploads/2025/4ba44f7a27.png\" width=\"600\" height=\"456\" alt=\"Ms. Watford, who joined The Post in May, also laid out big-picture goals for the company. Among them: reach 200 million paying users, which the slide deck described as a “Big Hairy Audacious Goal,” or “B.H.A.G.”&10;&10;The slide deck compares the 200 million target with efforts to land a man on the moon — and it is an ambitious goal: The Post currently has fewer than three million digital subscribers; The Times, an industry leader, has roughly 11 million total subscribers.\">\n",
+				"content_text": "While the Washington Post continues its decline let's remember that just earlier this year some clown in management set a goal of getting 200 million readers, an impossible number that will never happen. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/4ba44f7a27.png\" width=\"600\" height=\"456\" alt=\"Ms. Watford, who joined The Post in May, also laid out big-picture goals for the company. Among them: reach 200 million paying users, which the slide deck described as a “Big Hairy Audacious Goal,” or “B.H.A.G.”&10;&10;The slide deck compares the 200 million target with efforts to land a man on the moon — and it is an ambitious goal: The Post currently has fewer than three million digital subscribers; The Times, an industry leader, has roughly 11 million total subscribers.\">\n",
 				"date_published": "2025-07-17T09:14:30-05:00",
 				"url": "https://dansinker.micro.blog/2025/07/17/while-the-washington-post-continues.html"
 			},
@@ -106,7 +122,7 @@
 				"id": "http://dansinker.micro.blog/2025/07/16/went-to-sell-my-dads.html",
 				
 				"content_html": "<p>Went to sell my dad&rsquo;s stamp collection today and the store was full chaos mode and the guy had a waxed mustache and gave me $25 and said &ldquo;these are fun but worthless&rdquo; and the whole thing was so perfect, an A+ end.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Went to sell my dad's stamp collection today and the store was full chaos mode and the guy had a waxed mustache and gave me $25 and said \"these are fun but worthless\" and the whole thing was so perfect, an A+ end.\n\n<img src=\"uploads/2025/5619b5d9d0.jpg\" width=\"600\" height=\"337\" alt=\"A cluttered office space filled with stacks of books, boxes, files, and potted plants.\">\n",
+				"content_text": "Went to sell my dad's stamp collection today and the store was full chaos mode and the guy had a waxed mustache and gave me $25 and said \"these are fun but worthless\" and the whole thing was so perfect, an A+ end.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/5619b5d9d0.jpg\" width=\"600\" height=\"337\" alt=\"A cluttered office space filled with stacks of books, boxes, files, and potted plants.\">\n",
 				"date_published": "2025-07-16T19:18:17-05:00",
 				"url": "https://dansinker.micro.blog/2025/07/16/went-to-sell-my-dads.html"
 			},
@@ -178,7 +194,7 @@
 				"id": "http://dansinker.micro.blog/2025/07/03/its-been-a-hard-month.html",
 				
 				"content_html": "<p>It&rsquo;s been a hard month. I wrote about death, grief, and Magic: The Gathering. <a href=\"https://dansinker.com/posts/2025-07-03-mtg-grief/\">dansinker.com/posts/202&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's been a hard month. I wrote about death, grief, and Magic: The Gathering. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-07-03-mtg-grief/)\n\n\n<img src=\"uploads/2025/c700e4249d.jpg\" width=\"429\" height=\"600\" alt=\"\">\n",
+				"content_text": "It's been a hard month. I wrote about death, grief, and Magic: The Gathering. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-07-03-mtg-grief/)\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/c700e4249d.jpg\" width=\"429\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-03T12:11:12-05:00",
 				"url": "https://dansinker.micro.blog/2025/07/03/its-been-a-hard-month.html"
 			},
@@ -234,7 +250,7 @@
 				"id": "http://dansinker.micro.blog/2025/06/26/all-i-ask-is-a.html",
 				
 				"content_html": "<p>All I ask is a modest amount of incredulity from reporters.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "All I ask is a modest amount of incredulity from reporters.\n\n<img src=\"uploads/2025/e3af4748e8.png\" width=\"600\" height=\"527\" alt=\"Riders paid a flat fee of $4.20, Mr. Musk said on X, an apparent reference to “The Hitchhiker’s Guide to the Galaxy,” one of his favorite books. In the book, 42 is the ambiguous answer a supercomputer provides when asked to explain the meaning of life and the universe. The number 420 is also sometimes used as code for marijuana use.\">\n",
+				"content_text": "All I ask is a modest amount of incredulity from reporters.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/e3af4748e8.png\" width=\"600\" height=\"527\" alt=\"Riders paid a flat fee of $4.20, Mr. Musk said on X, an apparent reference to “The Hitchhiker’s Guide to the Galaxy,” one of his favorite books. In the book, 42 is the ambiguous answer a supercomputer provides when asked to explain the meaning of life and the universe. The number 420 is also sometimes used as code for marijuana use.\">\n",
 				"date_published": "2025-06-26T08:43:24-05:00",
 				"url": "https://dansinker.micro.blog/2025/06/26/all-i-ask-is-a.html"
 			},
@@ -250,7 +266,7 @@
 				"id": "http://dansinker.micro.blog/2025/06/24/who-could-have-possibly-predicted.html",
 				
 				"content_html": "<p>Who could have possibly predicted this entirely-unsurprising outcome? <!-- raw HTML omitted --></p>\n",
-				"content_text": "Who could have possibly predicted this entirely-unsurprising outcome? <img src=\"uploads/2025/345e2282d6.png\" alt=\"Strike Set Back Iran’s Nuclear Program by Only a Few Months, U.S. Report Says\r\nClassified findings indicate that the attack sealed off the entrances to two facilities but did not collapse their underground buildings.\">\n",
+				"content_text": "Who could have possibly predicted this entirely-unsurprising outcome? <img src=\"https://dansinker.micro.blog/uploads/2025/345e2282d6.png\" alt=\"Strike Set Back Iran’s Nuclear Program by Only a Few Months, U.S. Report Says\r\nClassified findings indicate that the attack sealed off the entrances to two facilities but did not collapse their underground buildings.\">\n",
 				"date_published": "2025-06-24T14:54:57-05:00",
 				"url": "https://dansinker.micro.blog/2025/06/24/who-could-have-possibly-predicted.html"
 			},
@@ -282,7 +298,7 @@
 				"id": "http://dansinker.micro.blog/2025/06/20/why-would-you-design-these.html",
 				
 				"content_html": "<p>Why would you design these to look like you have a swollen nose?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Why would you design these to look like you have a swollen nose?\n\n<img src=\"uploads/2025/1036c4e9c1.png\" width=\"367\" height=\"600\" alt=\"Mark Zuckerberg wearing his stupid glasses that don't fit \">\n",
+				"content_text": "Why would you design these to look like you have a swollen nose?\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/1036c4e9c1.png\" width=\"367\" height=\"600\" alt=\"Mark Zuckerberg wearing his stupid glasses that don't fit \">\n",
 				"date_published": "2025-06-20T21:37:36-05:00",
 				"url": "https://dansinker.micro.blog/2025/06/20/why-would-you-design-these.html"
 			},
@@ -298,7 +314,7 @@
 				"id": "http://dansinker.micro.blog/2025/06/18/held-court-is-what-theyre.html",
 				
 				"content_html": "<p>&ldquo;held court&rdquo; is what they&rsquo;re calling it now huh.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"held court\" is what they're calling it now huh.\n\n<img src=\"uploads/2025/443e413688.png\" width=\"600\" height=\"366\" alt=\"Mr. Musk even held court regularly off the clock at the home Ms. Miller shares with Stephen Miller, President Trump’s most powerful policy aide, and their three young children, according to people familiar with the matter.\">\n",
+				"content_text": "\"held court\" is what they're calling it now huh.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/443e413688.png\" width=\"600\" height=\"366\" alt=\"Mr. Musk even held court regularly off the clock at the home Ms. Miller shares with Stephen Miller, President Trump’s most powerful policy aide, and their three young children, according to people familiar with the matter.\">\n",
 				"date_published": "2025-06-18T21:54:43-05:00",
 				"url": "https://dansinker.micro.blog/2025/06/18/held-court-is-what-theyre.html"
 			},
@@ -306,7 +322,7 @@
 				"id": "http://dansinker.micro.blog/2025/06/17/found-a-pic-of-me.html",
 				
 				"content_html": "<p>Found a pic of me that proves I&rsquo;ve had resting fuck you face my whole life.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Found a pic of me that proves I've had resting fuck you face my whole life.\n\n<img src=\"uploads/2025/ee7a347dd9.jpg\" width=\"337\" height=\"600\" alt=\"A young child with blond hair is staring directly at the camera\">\n",
+				"content_text": "Found a pic of me that proves I've had resting fuck you face my whole life.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/ee7a347dd9.jpg\" width=\"337\" height=\"600\" alt=\"A young child with blond hair is staring directly at the camera\">\n",
 				"date_published": "2025-06-17T15:34:16-05:00",
 				"url": "https://dansinker.micro.blog/2025/06/17/found-a-pic-of-me.html"
 			},
@@ -362,7 +378,7 @@
 				"id": "http://dansinker.micro.blog/2025/06/07/chicago-remains-undefeated.html",
 				
 				"content_html": "<p>Chicago remains undefeated.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Chicago remains undefeated. \n\n<img src=\"uploads/2025/672d48434f.png\" width=\"600\" height=\"598\" alt=\"A display case contains Italian beef croissants, other pastries, and a decorated cake.\">\n",
+				"content_text": "Chicago remains undefeated. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/672d48434f.png\" width=\"600\" height=\"598\" alt=\"A display case contains Italian beef croissants, other pastries, and a decorated cake.\">\n",
 				"date_published": "2025-06-07T11:37:43-05:00",
 				"url": "https://dansinker.micro.blog/2025/06/07/chicago-remains-undefeated.html"
 			},
@@ -394,7 +410,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/30/for-more-than-a-year.html",
 				
 				"content_html": "<p>For more than a year, I&rsquo;ve been writing essays about Punk Planet, the miracle of a magazine I worked on for 13 years. All that time I&rsquo;ve been dreading writing this ending, because the reality is this: Sometimes things end and you never get over it. <a href=\"https://dansinker.com/posts/2025-05-30-ppy13/\">dansinker.com/posts/202&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "For more than a year, I've been writing essays about Punk Planet, the miracle of a magazine I worked on for 13 years. All that time I've been dreading writing this ending, because the reality is this: Sometimes things end and you never get over it. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-05-30-ppy13/)\r\n\r\n<img src=\"uploads/2025/3fde60fe8b.png\" alt=\"the cover of Punk Planet 80\">\n",
+				"content_text": "For more than a year, I've been writing essays about Punk Planet, the miracle of a magazine I worked on for 13 years. All that time I've been dreading writing this ending, because the reality is this: Sometimes things end and you never get over it. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-05-30-ppy13/)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/3fde60fe8b.png\" alt=\"the cover of Punk Planet 80\">\n",
 				"date_published": "2025-05-30T17:01:36-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/30/for-more-than-a-year.html"
 			},
@@ -410,7 +426,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/30/new-favorite-football-crest-just.html",
 				
 				"content_html": "<p>New favorite football crest just dropped.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New favorite football crest just dropped.\n\n<img src=\"uploads/2025/bcc9bf14b8.png\" width=\"489\" height=\"600\" alt=\"A seagull perched on a soccer ball is depicted on the Scarborough Athletic FC logo with the motto &quot;No Battle, No Victory.&quot;\">\n",
+				"content_text": "New favorite football crest just dropped.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/bcc9bf14b8.png\" width=\"489\" height=\"600\" alt=\"A seagull perched on a soccer ball is depicted on the Scarborough Athletic FC logo with the motto &quot;No Battle, No Victory.&quot;\">\n",
 				"date_published": "2025-05-30T08:06:12-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/30/new-favorite-football-crest-just.html"
 			},
@@ -418,7 +434,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/30/the-times-finally-reporting-what.html",
 				
 				"content_html": "<p>The Times finally reporting what we all could see: Musk was absolutely tripping balls the entire time he destroyed the government. Very polite of them to wait to drop this until he&rsquo;d left the position.</p>\n<p><a href=\"https://www.nytimes.com/2025/05/30/us/elon-musk-drugs-children-trump.html\">www.nytimes.com/2025/05/3&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Times finally reporting what we all could see: Musk was absolutely tripping balls the entire time he destroyed the government. Very polite of them to wait to drop this until he'd left the position.\n\n[www.nytimes.com/2025/05/3...](https://www.nytimes.com/2025/05/30/us/elon-musk-drugs-children-trump.html)\n\n<img src=\"uploads/2025/9cb8585dba.png\" width=\"600\" height=\"386\" alt=\"Mr. Musk’s drug consumption went well beyond occasional use. He told people he was taking so much ketamine, a powerful anesthetic, that it was affecting his bladder, a known effect of chronic use. He took Ecstasy and psychedelic mushrooms. And he traveled with a daily medication box that held about 20 pills, including ones with the markings of the stimulant Adderall, according to a photo of the box and people who have seen it.\">\n",
+				"content_text": "The Times finally reporting what we all could see: Musk was absolutely tripping balls the entire time he destroyed the government. Very polite of them to wait to drop this until he'd left the position.\n\n[www.nytimes.com/2025/05/3...](https://www.nytimes.com/2025/05/30/us/elon-musk-drugs-children-trump.html)\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/9cb8585dba.png\" width=\"600\" height=\"386\" alt=\"Mr. Musk’s drug consumption went well beyond occasional use. He told people he was taking so much ketamine, a powerful anesthetic, that it was affecting his bladder, a known effect of chronic use. He took Ecstasy and psychedelic mushrooms. And he traveled with a daily medication box that held about 20 pills, including ones with the markings of the stimulant Adderall, according to a photo of the box and people who have seen it.\">\n",
 				"date_published": "2025-05-30T07:01:52-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/30/the-times-finally-reporting-what.html"
 			},
@@ -426,7 +442,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/29/why-in-the-fuck-would.html",
 				
 				"content_html": "<p>Why in the fuck would I want to do that?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Why in the fuck would I want to do that?\n\n<img src=\"uploads/2025/693dbfaffe.png\" width=\"505\" height=\"600\" alt=\"An invitation to chat with an AI named Sloppy Mustard Man, a person covered in mustard and sitting in a messy kitchen, surrounded by containers and food.\">\n",
+				"content_text": "Why in the fuck would I want to do that?\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/693dbfaffe.png\" width=\"505\" height=\"600\" alt=\"An invitation to chat with an AI named Sloppy Mustard Man, a person covered in mustard and sitting in a messy kitchen, surrounded by containers and food.\">\n",
 				"date_published": "2025-05-29T08:27:37-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/29/why-in-the-fuck-would.html"
 			},
@@ -434,7 +450,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/28/meanwhile-myspacetom-is-having-the.html",
 				
 				"content_html": "<p>Meanwhile, MySpaceTom is having the time of his life at a rave in Vegas.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Meanwhile, MySpaceTom is having the time of his life at a rave in Vegas. \n\n<img src=\"uploads/2025/3195ddd632.png\" width=\"348\" height=\"600\" alt=\"A DJ wearing a jersey with &quot;Illenium&quot; and the number 3 is performing on stage amidst a crowd with beams of light and smoke in the background. Overlayed text says &quot;Guess who pushed the smoke and confetti buttons?&quot;\">\n",
+				"content_text": "Meanwhile, MySpaceTom is having the time of his life at a rave in Vegas. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/3195ddd632.png\" width=\"348\" height=\"600\" alt=\"A DJ wearing a jersey with &quot;Illenium&quot; and the number 3 is performing on stage amidst a crowd with beams of light and smoke in the background. Overlayed text says &quot;Guess who pushed the smoke and confetti buttons?&quot;\">\n",
 				"date_published": "2025-05-28T21:24:32-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/28/meanwhile-myspacetom-is-having-the.html"
 			},
@@ -482,7 +498,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/22/hell-yes-it-used-to.html",
 				
 				"content_html": "<p>Hell yes. It used to be that if you wanted to dye your hair green, you took the train or the bus here, walked up to the second floor, got vibed by the person behind the counter and got a jar of Manic Panic. Now you go to CVS. Deserves landmark status for that alone.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hell yes. It used to be that if you wanted to dye your hair green, you took the train or the bus here, walked up to the second floor, got vibed by the person behind the counter and got a jar of Manic Panic. Now you go to CVS. Deserves landmark status for that alone. \n\n<img src=\"uploads/2025/d39fe861db.png\" width=\"600\" height=\"507\" alt=\"\">\n",
+				"content_text": "Hell yes. It used to be that if you wanted to dye your hair green, you took the train or the bus here, walked up to the second floor, got vibed by the person behind the counter and got a jar of Manic Panic. Now you go to CVS. Deserves landmark status for that alone. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/d39fe861db.png\" width=\"600\" height=\"507\" alt=\"\">\n",
 				"date_published": "2025-05-22T09:28:42-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/22/hell-yes-it-used-to.html"
 			},
@@ -498,7 +514,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/17/our-car-got-completely-coated.html",
 				
 				"content_html": "<p>Our car got completely coated from the dust storm.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our car got completely coated from the dust storm. \n\n<img src=\"uploads/2025/0d9b518b7e.png\" width=\"349\" height=\"600\" alt=\"Side of a car covered with a thin layer of dust.\">\n",
+				"content_text": "Our car got completely coated from the dust storm. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/0d9b518b7e.png\" width=\"349\" height=\"600\" alt=\"Side of a car covered with a thin layer of dust.\">\n",
 				"date_published": "2025-05-17T17:32:36-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/17/our-car-got-completely-coated.html"
 			},
@@ -530,7 +546,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/16/going-full-dust-bowl-over.html",
 				
 				"content_html": "<p>Going full Dust Bowl over here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Going full Dust Bowl over here.\n\n<img src=\"uploads/2025/af78445e6c.png\" width=\"600\" height=\"514\" alt=\"An emergency alert warns of a severe dust storm until 8:30 PM CDT, advising drivers to pull over and park safely while urging caution for vulnerable individuals.\">\n",
+				"content_text": "Going full Dust Bowl over here.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/af78445e6c.png\" width=\"600\" height=\"514\" alt=\"An emergency alert warns of a severe dust storm until 8:30 PM CDT, advising drivers to pull over and park safely while urging caution for vulnerable individuals.\">\n",
 				"date_published": "2025-05-16T18:25:39-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/16/going-full-dust-bowl-over.html"
 			},
@@ -538,7 +554,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/15/phone-just-reminded-me-that.html",
 				
 				"content_html": "<p>Phone just reminded me that five years ago I&rsquo;d make a weekly banner to mark our time inside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Phone just reminded me that five years ago I'd make a weekly banner to mark our time inside.\n\n<img src=\"uploads/2025/0d0703ebc9.png\" width=\"600\" height=\"428\" alt=\"Colorful banners with motivational phrases and a countdown of days decorate a window.\">\n",
+				"content_text": "Phone just reminded me that five years ago I'd make a weekly banner to mark our time inside.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/0d0703ebc9.png\" width=\"600\" height=\"428\" alt=\"Colorful banners with motivational phrases and a countdown of days decorate a window.\">\n",
 				"date_published": "2025-05-15T16:31:28-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/15/phone-just-reminded-me-that.html"
 			},
@@ -562,7 +578,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/08/the-good-news-for-chicago.html",
 				
 				"content_html": "<p>The good news for Chicago won&rsquo;t stop.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The good news for Chicago won't stop. \n\n<img src=\"uploads/2025/bcaf4f2b66.png\" width=\"600\" height=\"588\" alt=\"Rise & Dine: Portillo’s is Testing Breakfast, screengrab \">\n",
+				"content_text": "The good news for Chicago won't stop. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/bcaf4f2b66.png\" width=\"600\" height=\"588\" alt=\"Rise & Dine: Portillo’s is Testing Breakfast, screengrab \">\n",
 				"date_published": "2025-05-08T20:23:17-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/08/the-good-news-for-chicago.html"
 			},
@@ -610,7 +626,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/06/lollll-when-its-absolutely-and.html",
 				
 				"content_html": "<p>Lollll when it&rsquo;s absolutely and totally going great.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lollll when it's absolutely and totally going great. \n\n<img src=\"uploads/2025/b7dc96924d.png\" width=\"600\" height=\"394\" alt=\"A headline discusses President Trump backing off previous claims about trade deals and tariffs.\">\n",
+				"content_text": "Lollll when it's absolutely and totally going great. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/b7dc96924d.png\" width=\"600\" height=\"394\" alt=\"A headline discusses President Trump backing off previous claims about trade deals and tariffs.\">\n",
 				"date_published": "2025-05-06T19:00:11-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/06/lollll-when-its-absolutely-and.html"
 			},
@@ -642,7 +658,7 @@
 				"id": "http://dansinker.micro.blog/2025/05/01/happy-may-day-from-the.html",
 				
 				"content_html": "<p>Happy May Day, from the city that brought it to you. <!-- raw HTML omitted --></p>\n",
-				"content_text": "Happy May Day, from the city that brought it to you. <img src=\"uploads/2025/84d5c2628a.png\" alt=\"historical flyer advertising a mass meeting at Randoph Street between Desplains and Halstead in Chicago\">\n",
+				"content_text": "Happy May Day, from the city that brought it to you. <img src=\"https://dansinker.micro.blog/uploads/2025/84d5c2628a.png\" alt=\"historical flyer advertising a mass meeting at Randoph Street between Desplains and Halstead in Chicago\">\n",
 				"date_published": "2025-05-01T09:40:57-05:00",
 				"url": "https://dansinker.micro.blog/2025/05/01/happy-may-day-from-the.html"
 			},
@@ -705,8 +721,8 @@
 			{
 				"id": "http://dansinker.micro.blog/2025/04/24/kickstarter-acknowledges-that-folks-building.html",
 				
-				"content_html": "<p>Kickstarter acknowledges that folks building things are royally fucked right now. &lt;img src=&ldquo;uploads/2025/03a797d142.png&rdquo; alt=&ldquo;Since then, early beta testers have helped us shape and improve it in all the right ways, including adding a new Tariff Manager to help creators adapt to changing tariff and regulatory costs—without compromising reward delivery.</p>\n<p>&ldquo;&gt;</p>\n",
-				"content_text": "Kickstarter acknowledges that folks building things are royally fucked right now. <img src=\"uploads/2025/03a797d142.png\" alt=\"Since then, early beta testers have helped us shape and improve it in all the right ways, including adding a new Tariff Manager to help creators adapt to changing tariff and regulatory costs—without compromising reward delivery.\r\n\r\n\">\n",
+				"content_html": "<p>Kickstarter acknowledges that folks building things are royally fucked right now. &lt;img src=&ldquo;<a href=\"https://dansinker.micro.blog/uploads/2025/03a797d142.png%22\">https://dansinker.micro.blog/uploads/2025/03a797d142.png&quot;</a> alt=&ldquo;Since then, early beta testers have helped us shape and improve it in all the right ways, including adding a new Tariff Manager to help creators adapt to changing tariff and regulatory costs—without compromising reward delivery.</p>\n<p>&ldquo;&gt;</p>\n",
+				"content_text": "Kickstarter acknowledges that folks building things are royally fucked right now. <img src=\"https://dansinker.micro.blog/uploads/2025/03a797d142.png\" alt=\"Since then, early beta testers have helped us shape and improve it in all the right ways, including adding a new Tariff Manager to help creators adapt to changing tariff and regulatory costs—without compromising reward delivery.\r\n\r\n\">\n",
 				"date_published": "2025-04-24T12:59:20-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/24/kickstarter-acknowledges-that-folks-building.html"
 			},
@@ -722,7 +738,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/22/these-fucks-have-no-idea.html",
 				
 				"content_html": "<p>these fucks have no idea what they&rsquo;re doing one day to the next. <!-- raw HTML omitted --></p>\n",
-				"content_text": "these fucks have no idea what they're doing one day to the next. <img src=\"uploads/2025/e4ed433186.png\" alt=\"a headline that says Trump Says He Has No Intention of Firing Fed Chief Powell\">\n",
+				"content_text": "these fucks have no idea what they're doing one day to the next. <img src=\"https://dansinker.micro.blog/uploads/2025/e4ed433186.png\" alt=\"a headline that says Trump Says He Has No Intention of Firing Fed Chief Powell\">\n",
 				"date_published": "2025-04-22T16:35:12-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/22/these-fucks-have-no-idea.html"
 			},
@@ -738,7 +754,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/22/102521.html",
 				
 				"content_html": "<p>Blinks in Rebel Spirit</p>\n<p><a href=\"https://www.nytimes.com/2025/04/22/nyregion/trump-massapequa-school-mascot.html\">www.nytimes.com/2025/04/2&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Blinks in Rebel Spirit \n\n[www.nytimes.com/2025/04/2...](https://www.nytimes.com/2025/04/22/nyregion/trump-massapequa-school-mascot.html)\n\n<img src=\"uploads/2025/484600f9fd.png\" width=\"586\" height=\"600\" alt=\"Trump Joins a Bitter Fight on Long Island Over a School Mascot. New York’s education leaders moved to ban Native American-inspired mascots in 2022, drawing a lawsuit from the Massapequa school district. Now, the president has weighed in.\">\n",
+				"content_text": "Blinks in Rebel Spirit \n\n[www.nytimes.com/2025/04/2...](https://www.nytimes.com/2025/04/22/nyregion/trump-massapequa-school-mascot.html)\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/484600f9fd.png\" width=\"586\" height=\"600\" alt=\"Trump Joins a Bitter Fight on Long Island Over a School Mascot. New York’s education leaders moved to ban Native American-inspired mascots in 2022, drawing a lawsuit from the Massapequa school district. Now, the president has weighed in.\">\n",
 				"date_published": "2025-04-22T10:25:21-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/22/102521.html"
 			},
@@ -746,7 +762,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/19/end-stage-capitalism-but-make.html",
 				
 				"content_html": "<p>End stage capitalism, but make it food.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "End stage capitalism, but make it food.\n\n<img src=\"uploads/2025/a72e576dd8.jpg\" width=\"337\" height=\"600\" alt=\"A package of Jack Link's Doritos Spicy Sweet Chili flavored meat sticks is on display.\">\n",
+				"content_text": "End stage capitalism, but make it food.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/a72e576dd8.jpg\" width=\"337\" height=\"600\" alt=\"A package of Jack Link's Doritos Spicy Sweet Chili flavored meat sticks is on display.\">\n",
 				"date_published": "2025-04-19T12:11:08-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/19/end-stage-capitalism-but-make.html"
 			},
@@ -754,7 +770,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/18/lolllllllllllllllllll.html",
 				
 				"content_html": "<p>Lolllllllllllllllllll</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lolllllllllllllllllll\n\n<img src=\"uploads/2025/4b46e817f9.png\" width=\"600\" height=\"325\" alt=\"A headline reports that Trump officials attribute a confrontation with Harvard to an unauthorized mistake by the administration's antisemitism task force.\">\n",
+				"content_text": "Lolllllllllllllllllll\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/4b46e817f9.png\" width=\"600\" height=\"325\" alt=\"A headline reports that Trump officials attribute a confrontation with Harvard to an unauthorized mistake by the administration's antisemitism task force.\">\n",
 				"date_published": "2025-04-18T21:10:14-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/18/lolllllllllllllllllll.html"
 			},
@@ -762,7 +778,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/18/lol-we-were-like-oh.html",
 				
 				"content_html": "<p>Lol, we were like &ldquo;Oh shit, that. What can we get at Walgreens?&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lol, we were like \"Oh shit, that. What can we get at Walgreens?\"\n\n<img src=\"uploads/2025/4191308725.png\" width=\"600\" height=\"284\" alt=\"Are Easter Baskets Getting Out of Hand?&10;&10;Social media is awash in images of lavish baskets overflowing with expensive gifts. Some parents are giving their children bikes. Others are pushing back.\">\n",
+				"content_text": "Lol, we were like \"Oh shit, that. What can we get at Walgreens?\"\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/4191308725.png\" width=\"600\" height=\"284\" alt=\"Are Easter Baskets Getting Out of Hand?&10;&10;Social media is awash in images of lavish baskets overflowing with expensive gifts. Some parents are giving their children bikes. Others are pushing back.\">\n",
 				"date_published": "2025-04-18T19:53:28-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/18/lol-we-were-like-oh.html"
 			},
@@ -778,7 +794,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/17/clone-wars-getting-real-real.html",
 				
 				"content_html": "<p>Clone Wars getting real real over here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Clone Wars getting real real over here.\n\n<img src=\"uploads/2025/17b938936f.jpg\" width=\"600\" height=\"600\" alt=\"A television displays the text &quot;The challenge of hope is to overcome corruption&quot; in a room with some framed items and decorative lights.\">\n",
+				"content_text": "Clone Wars getting real real over here.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/17b938936f.jpg\" width=\"600\" height=\"600\" alt=\"A television displays the text &quot;The challenge of hope is to overcome corruption&quot; in a room with some framed items and decorative lights.\">\n",
 				"date_published": "2025-04-17T20:10:05-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/17/clone-wars-getting-real-real.html"
 			},
@@ -802,7 +818,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/16/im-sorry-they-threw-a.html",
 				
 				"content_html": "<p>I&rsquo;m sorry they threw a what-themed wedding??? <a href=\"https://www.nytimes.com/2025/04/16/technology/amazon-sellers-china-tariffs.html\">www.nytimes.com/2025/04/1&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm sorry they threw a what-themed wedding??? [www.nytimes.com/2025/04/1...](https://www.nytimes.com/2025/04/16/technology/amazon-sellers-china-tariffs.html)\n\n<img src=\"uploads/2025/c73d54a274.png\" width=\"600\" height=\"354\" alt=\"Amazon was the center of their life. They met at a conference for Amazon sellers in 2016 and had their first kiss at another Amazon conference two years later. They moved in together and grew their business, Treasures Gifted. When they married in 2022, they threw an Amazon-themed wedding, with guests assigned Amazon product numbers instead of table numbers.\">\n",
+				"content_text": "I'm sorry they threw a what-themed wedding??? [www.nytimes.com/2025/04/1...](https://www.nytimes.com/2025/04/16/technology/amazon-sellers-china-tariffs.html)\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/c73d54a274.png\" width=\"600\" height=\"354\" alt=\"Amazon was the center of their life. They met at a conference for Amazon sellers in 2016 and had their first kiss at another Amazon conference two years later. They moved in together and grew their business, Treasures Gifted. When they married in 2022, they threw an Amazon-themed wedding, with guests assigned Amazon product numbers instead of table numbers.\">\n",
 				"date_published": "2025-04-16T12:15:02-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/16/im-sorry-they-threw-a.html"
 			},
@@ -858,7 +874,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/11/the-administration-adding-fullyalive-people.html",
 				
 				"content_html": "<p>The administration adding fully-alive people to the Social Security &ldquo;death file&rdquo; in order to make their lives unlivable should be the mother of all red lines. <a href=\"https://www.nytimes.com/2025/04/10/us/politics/migrants-deport-social-security-doge.html\">www.nytimes.com/2025/04/1&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The administration adding fully-alive people to the Social Security \"death file\" in order to make their lives unlivable should be the mother of all red lines. [www.nytimes.com/2025/04/1...](https://www.nytimes.com/2025/04/10/us/politics/migrants-deport-social-security-doge.html)\n\n<img src=\"uploads/2025/b3ac91f7c9.png\" width=\"600\" height=\"438\" alt=\"The effort hinges on a surprising new tactic: repurposing Social Security’s “death master file,” which for years has been used to track dead people who should no longer receive benefits, to include the names of living people who the government believes should be treated as if they are dead. As a result of being added to the death database, they would be blacklisted from a coveted form of identity that allows them to make and more easily spend money.\">\n",
+				"content_text": "The administration adding fully-alive people to the Social Security \"death file\" in order to make their lives unlivable should be the mother of all red lines. [www.nytimes.com/2025/04/1...](https://www.nytimes.com/2025/04/10/us/politics/migrants-deport-social-security-doge.html)\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/b3ac91f7c9.png\" width=\"600\" height=\"438\" alt=\"The effort hinges on a surprising new tactic: repurposing Social Security’s “death master file,” which for years has been used to track dead people who should no longer receive benefits, to include the names of living people who the government believes should be treated as if they are dead. As a result of being added to the death database, they would be blacklisted from a coveted form of identity that allows them to make and more easily spend money.\">\n",
 				"date_published": "2025-04-11T08:25:11-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/11/the-administration-adding-fullyalive-people.html"
 			},
@@ -866,7 +882,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/09/just-end-my-life-already.html",
 				
 				"content_html": "<p>Just end my life already please I am begging. I can not take how stupid this all is.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just end my life already please I am begging. I can not take how stupid this all is.\n\n<img src=\"uploads/2025/58a1e94f8b.png\" width=\"556\" height=\"600\" alt=\"&quot;Fact Sheet: President Donald J. Trump Makes America's Showers Great Again&quot; \">\n",
+				"content_text": "Just end my life already please I am begging. I can not take how stupid this all is.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/58a1e94f8b.png\" width=\"556\" height=\"600\" alt=\"&quot;Fact Sheet: President Donald J. Trump Makes America's Showers Great Again&quot; \">\n",
 				"date_published": "2025-04-09T18:57:59-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/09/just-end-my-life-already.html"
 			},
@@ -938,7 +954,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/08/completely-uninterested-in-getting-out.html",
 				
 				"content_html": "<p>Completely uninterested in getting out of bed this morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Completely uninterested in getting out of bed this morning.\n\n<img src=\"uploads/2025/a353999a8d.png\" width=\"600\" height=\"337\" alt=\"A weather icon showing a sun partially covered by a cloud indicates that it's currently 27°C, with a &quot;feels like&quot; temperature of 18°C, and partly cloudy conditions.\">\n",
+				"content_text": "Completely uninterested in getting out of bed this morning.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/a353999a8d.png\" width=\"600\" height=\"337\" alt=\"A weather icon showing a sun partially covered by a cloud indicates that it's currently 27°C, with a &quot;feels like&quot; temperature of 18°C, and partly cloudy conditions.\">\n",
 				"date_published": "2025-04-08T06:36:17-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/08/completely-uninterested-in-getting-out.html"
 			},
@@ -986,7 +1002,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/05/the-verge-completely-owned-the.html",
 				
 				"content_html": "<p>The Verge completely owned the story of the last time Trump tried to bring manufacturing back to America.  <a href=\"https://www.theverge.com/c/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump\">www.theverge.com/c/2150796&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Verge completely owned the story of the last time Trump tried to bring manufacturing back to America.  [www.theverge.com/c/2150796...](https://www.theverge.com/c/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump)\n\n\n\n<img src=\"uploads/2025/86310fbfee.png\" width=\"514\" height=\"600\" alt=\"&quot;The renovations never arrived. Neither did the factory, the tech campus, nor the thousands of jobs. Interviews with 19 employees and dozens of others involved with the project, as well as thousands of pages of public documents, reveal a project that has defaulted on almost every promise. The building Foxconn calls an LCD factory — about 1/20th the size of the original plan — is little more than an empty shell. In September, Foxconn received a permit to change its intended use from manufacturing to storage.&quot;\">\n",
+				"content_text": "The Verge completely owned the story of the last time Trump tried to bring manufacturing back to America.  [www.theverge.com/c/2150796...](https://www.theverge.com/c/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump)\n\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/86310fbfee.png\" width=\"514\" height=\"600\" alt=\"&quot;The renovations never arrived. Neither did the factory, the tech campus, nor the thousands of jobs. Interviews with 19 employees and dozens of others involved with the project, as well as thousands of pages of public documents, reveal a project that has defaulted on almost every promise. The building Foxconn calls an LCD factory — about 1/20th the size of the original plan — is little more than an empty shell. In September, Foxconn received a permit to change its intended use from manufacturing to storage.&quot;\">\n",
 				"date_published": "2025-04-05T09:17:03-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/05/the-verge-completely-owned-the.html"
 			},
@@ -1058,7 +1074,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/03/fixed-the-nyt-headline.html",
 				
 				"content_html": "<p>Fixed the NYT headline. <!-- raw HTML omitted --></p>\n",
-				"content_text": "Fixed the NYT headline. <img src=\"uploads/2025/e3ad3dc9a9.png\" alt=\"modified New York Times headline that reads 'Trump’s Tariffs Are Latest Sign He Is Fucking Insane'\">\n",
+				"content_text": "Fixed the NYT headline. <img src=\"https://dansinker.micro.blog/uploads/2025/e3ad3dc9a9.png\" alt=\"modified New York Times headline that reads 'Trump’s Tariffs Are Latest Sign He Is Fucking Insane'\">\n",
 				"date_published": "2025-04-03T08:11:45-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/03/fixed-the-nyt-headline.html"
 			},
@@ -1066,7 +1082,7 @@
 				"id": "http://dansinker.micro.blog/2025/04/02/guess-where-they-got-their.html",
 				
 				"content_html": "<p>Guess where they got their weird trade deficit math from?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Guess where they got their weird trade deficit math from?\n\n<img src=\"uploads/2025/1b274d29c0.png\" width=\"531\" height=\"600\" alt=\"A tweet by &quot;rohit&quot; discusses the application of AI in geopolitics, specifically focusing on tariffs, and includes a table comparing tariff rates between China and the US.\">\n",
+				"content_text": "Guess where they got their weird trade deficit math from?\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/1b274d29c0.png\" width=\"531\" height=\"600\" alt=\"A tweet by &quot;rohit&quot; discusses the application of AI in geopolitics, specifically focusing on tariffs, and includes a table comparing tariff rates between China and the US.\">\n",
 				"date_published": "2025-04-02T19:32:21-05:00",
 				"url": "https://dansinker.micro.blog/2025/04/02/guess-where-they-got-their.html"
 			},
@@ -1154,7 +1170,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/31/literally-has-never-been-a.html",
 				
 				"content_html": "<p>Literally has never been a worse bet.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Literally has never been a worse bet. \n\n<img src=\"uploads/2025/61d2ca6987.png\" width=\"600\" height=\"310\" alt=\"Tariff Gambit Bets Americans Will Swallow Higher Prices&10;Treasury Secretary Scott Bessent argues that the American dream is about more than cheap televisions, but inflation-weary consumers might disagree.\">\n",
+				"content_text": "Literally has never been a worse bet. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/61d2ca6987.png\" width=\"600\" height=\"310\" alt=\"Tariff Gambit Bets Americans Will Swallow Higher Prices&10;Treasury Secretary Scott Bessent argues that the American dream is about more than cheap televisions, but inflation-weary consumers might disagree.\">\n",
 				"date_published": "2025-03-31T18:24:37-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/31/literally-has-never-been-a.html"
 			},
@@ -1178,7 +1194,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/28/hey-take-a-minute-to.html",
 				
 				"content_html": "<p>Hey take a minute to pause from doomscrolling and read about Year 11 of Punk Planet, a year where it&rsquo;s legitimately impossible for me to believe how much we did. Issues! Books! A whole new magazine! So. Many. Things. <a href=\"https://dansinker.com/posts/2025-03-28-ppy11/\">dansinker.com/posts/202&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hey take a minute to pause from doomscrolling and read about Year 11 of Punk Planet, a year where it's legitimately impossible for me to believe how much we did. Issues! Books! A whole new magazine! So. Many. Things. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-03-28-ppy11/)\r\n\r\n<img src=\"uploads/2025/18488c2f44.png\" alt=\"six issues of the magazine Punk Planet. Most prominent is one featuring comedian Fred Armisen on the cover\">\n",
+				"content_text": "Hey take a minute to pause from doomscrolling and read about Year 11 of Punk Planet, a year where it's legitimately impossible for me to believe how much we did. Issues! Books! A whole new magazine! So. Many. Things. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-03-28-ppy11/)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/18488c2f44.png\" alt=\"six issues of the magazine Punk Planet. Most prominent is one featuring comedian Fred Armisen on the cover\">\n",
 				"date_published": "2025-03-28T18:32:45-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/28/hey-take-a-minute-to.html"
 			},
@@ -1210,7 +1226,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/26/took-a-break-from-the.html",
 				
 				"content_html": "<p>Took a break from the hellscape to hang out with the Thorne Room Miniatures</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took a break from the hellscape to hang out with the Thorne Room Miniatures \n\n<img src=\"uploads/2025/e0f92463f8.jpg\" width=\"600\" height=\"600\" alt=\"A detailed miniature diorama showcases a 1940s-style living room with elegant furnishings and decor, framed in a wooden box.\">\n",
+				"content_text": "Took a break from the hellscape to hang out with the Thorne Room Miniatures \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/e0f92463f8.jpg\" width=\"600\" height=\"600\" alt=\"A detailed miniature diorama showcases a 1940s-style living room with elegant furnishings and decor, framed in a wooden box.\">\n",
 				"date_published": "2025-03-26T14:48:34-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/26/took-a-break-from-the.html"
 			},
@@ -1218,7 +1234,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/26/071707.html",
 				
 				"content_html": "<p>“We are currently clean on OPSEC”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“We are currently clean on OPSEC”\n\n<img src=\"uploads/2025/70888483c6.jpg\" width=\"600\" height=\"353\" alt=\"Garfield covered in lasagna cheese\">\n",
+				"content_text": "“We are currently clean on OPSEC”\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/70888483c6.jpg\" width=\"600\" height=\"353\" alt=\"Garfield covered in lasagna cheese\">\n",
 				"date_published": "2025-03-26T08:17:07-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/26/071707.html"
 			},
@@ -1306,7 +1322,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/19/full-on-dear-leader-shit.html",
 				
 				"content_html": "<p>Full on Dear Leader shit right here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Full on Dear Leader shit right here. \n\n<img src=\"uploads/2025/9f9d92290e.png\" width=\"600\" height=\"422\" alt=\"Asked about the anecdote, Steven Cheung, the White House communications director, did not directly address it but said that the president “is a virtuoso and his musical choices represent a brilliant palette of vibrant colors when others often paint in pale pastels.” Mr. Cheung said that, given Mr. Trump’s roles as president and Kennedy Center chair, “there is nobody more uniquely qualified to bring this country, and its rich history of the arts, back to prominence.”\">\n",
+				"content_text": "Full on Dear Leader shit right here. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/9f9d92290e.png\" width=\"600\" height=\"422\" alt=\"Asked about the anecdote, Steven Cheung, the White House communications director, did not directly address it but said that the president “is a virtuoso and his musical choices represent a brilliant palette of vibrant colors when others often paint in pale pastels.” Mr. Cheung said that, given Mr. Trump’s roles as president and Kennedy Center chair, “there is nobody more uniquely qualified to bring this country, and its rich history of the arts, back to prominence.”\">\n",
 				"date_published": "2025-03-19T20:18:01-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/19/full-on-dear-leader-shit.html"
 			},
@@ -1314,7 +1330,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/19/noted-radical-left-stronghold-of.html",
 				
 				"content_html": "<p>Noted radical left stronghold of Buffalo Grove Illinois. <a href=\"https://patch.com/illinois/buffalogrove/new-tesla-dealership-vandalized-buffalo-grove-woman-charged-police\">patch.com/illinois/&hellip;</a> <!-- raw HTML omitted --></p>\n",
-				"content_text": "Noted radical left stronghold of Buffalo Grove Illinois. [patch.com/illinois/...](https://patch.com/illinois/buffalogrove/new-tesla-dealership-vandalized-buffalo-grove-woman-charged-police) <img src=\"uploads/2025/fbf3ee7c94.png\" alt=\"text that reads New Tesla Dealership Vandalized, Buffalo Grove Woman Charged: Police The 26-year-old resident was charged with a felony following the incident last Friday at the new Dundee Road business.\">\n",
+				"content_text": "Noted radical left stronghold of Buffalo Grove Illinois. [patch.com/illinois/...](https://patch.com/illinois/buffalogrove/new-tesla-dealership-vandalized-buffalo-grove-woman-charged-police) <img src=\"https://dansinker.micro.blog/uploads/2025/fbf3ee7c94.png\" alt=\"text that reads New Tesla Dealership Vandalized, Buffalo Grove Woman Charged: Police The 26-year-old resident was charged with a felony following the incident last Friday at the new Dundee Road business.\">\n",
 				"date_published": "2025-03-19T15:59:44-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/19/noted-radical-left-stronghold-of.html"
 			},
@@ -1330,7 +1346,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/19/the-narrative-of-doges-breakin.html",
 				
 				"content_html": "<p>The narrative of DOGE&rsquo;s break-in (literally) at the US Institute of Peace is fucking gnarly as hell. <a href=\"https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/\">www.washingtonpost.com/national-&hellip;</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The narrative of DOGE's break-in (literally) at the US Institute of Peace is fucking gnarly as hell. [www.washingtonpost.com/national-...](https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/)\n\n\n\n<img src=\"uploads/2025/f5e52a1663.png\" width=\"600\" height=\"490\" alt=\"On Monday, at approximately 2:30 p.m.” four members of Inter-Con’s local office “came onto the property and attempted to use their key cards to open the doors. Ken Jackson was sitting in a government Lincoln Navigator on 23rd Street.” The security guards “walked around, trying different badge readers” on different doors. Eventually, one “who had retained a manual key to the building” used it to open a side door\"><img src=\"uploads/2025/58d6b02efe.png\" width=\"600\" height=\"374\" alt=\"O’Brien said he activated “lockdown procedure” preventing the opening of any doors. As the security contractors approached the door, “members of DOGE were running up to enter the building. When they were unsuccessful, they went back to their cars.” It was all, he said, on USIP security cameras.\">\n",
+				"content_text": "The narrative of DOGE's break-in (literally) at the US Institute of Peace is fucking gnarly as hell. [www.washingtonpost.com/national-...](https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/)\n\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/f5e52a1663.png\" width=\"600\" height=\"490\" alt=\"On Monday, at approximately 2:30 p.m.” four members of Inter-Con’s local office “came onto the property and attempted to use their key cards to open the doors. Ken Jackson was sitting in a government Lincoln Navigator on 23rd Street.” The security guards “walked around, trying different badge readers” on different doors. Eventually, one “who had retained a manual key to the building” used it to open a side door\"><img src=\"https://dansinker.micro.blog/uploads/2025/58d6b02efe.png\" width=\"600\" height=\"374\" alt=\"O’Brien said he activated “lockdown procedure” preventing the opening of any doors. As the security contractors approached the door, “members of DOGE were running up to enter the building. When they were unsuccessful, they went back to their cars.” It was all, he said, on USIP security cameras.\">\n",
 				"date_published": "2025-03-19T06:25:37-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/19/the-narrative-of-doges-breakin.html"
 			},
@@ -1362,7 +1378,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/17/this-is-going-to-ruin.html",
 				
 				"content_html": "<p>This is going to ruin the tour.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is going to ruin the tour.\n\n<img src=\"uploads/2025/143f0464cf.png\" width=\"600\" height=\"381\" alt=\"A headline and text detail Senator Chuck Schumer's decision to postpone a book tour due to backlash for voting with Republicans, inciting protests and calls for his resignation from Democratic activists.\">\n",
+				"content_text": "This is going to ruin the tour.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/143f0464cf.png\" width=\"600\" height=\"381\" alt=\"A headline and text detail Senator Chuck Schumer's decision to postpone a book tour due to backlash for voting with Republicans, inciting protests and calls for his resignation from Democratic activists.\">\n",
 				"date_published": "2025-03-17T10:36:55-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/17/this-is-going-to-ruin.html"
 			},
@@ -1394,7 +1410,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/15/you-can-buy-a-blind.html",
 				
 				"content_html": "<p>You can buy a blind box of my childhood.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "You can buy a blind box of my childhood.\n\n<img src=\"uploads/2025/f16c854966.jpg\" width=\"337\" height=\"600\" alt=\"A box displays a &quot;Mini Brands Retro&quot; collection with miniature branded items, featuring &quot;5 Surprise Minis Inside!&quot; and showcasing things like a film canister and a floppy disk.\">\n",
+				"content_text": "You can buy a blind box of my childhood.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/f16c854966.jpg\" width=\"337\" height=\"600\" alt=\"A box displays a &quot;Mini Brands Retro&quot; collection with miniature branded items, featuring &quot;5 Surprise Minis Inside!&quot; and showcasing things like a film canister and a floppy disk.\">\n",
 				"date_published": "2025-03-15T12:51:12-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/15/you-can-buy-a-blind.html"
 			},
@@ -1402,7 +1418,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/15/the-rats-are-in-the.html",
 				
 				"content_html": "<p>The rats are in the mail.</p>\n<p><a href=\"https://www.npr.org/2025/03/14/nx-s1-5327583/usps-doge-postal-service-louis-dejoy-postmaster-general\">www.npr.org/2025/03/1&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The rats are in the mail. \n\n[www.npr.org/2025/03/1...](https://www.npr.org/2025/03/14/nx-s1-5327583/usps-doge-postal-service-louis-dejoy-postmaster-general)\n\n<img src=\"uploads/2025/170c182d66.png\" width=\"600\" height=\"392\" alt=\"A news article headline states that the USPS head has agreed to allow DOGE to find efficiencies with restrictions on employee data access.\">\n",
+				"content_text": "The rats are in the mail. \n\n[www.npr.org/2025/03/1...](https://www.npr.org/2025/03/14/nx-s1-5327583/usps-doge-postal-service-louis-dejoy-postmaster-general)\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/170c182d66.png\" width=\"600\" height=\"392\" alt=\"A news article headline states that the USPS head has agreed to allow DOGE to find efficiencies with restrictions on employee data access.\">\n",
 				"date_published": "2025-03-15T10:36:54-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/15/the-rats-are-in-the.html"
 			},
@@ -1410,7 +1426,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/15/but-what-if-they-shut.html",
 				
 				"content_html": "<p>BuT wHaT IF tHeY SHut doWN thE GOveRNmenT??</p>\n<p>Motherfucker he did this AFTER your cowardly vote.</p>\n<p><a href=\"https://www.nytimes.com/2025/03/15/us/politics/trump-order-voice-of-america.html?unlocked_article_code=1.4E4.kP1i.rcJMDYCP6hSr&amp;smid=url-share\">www.nytimes.com/2025/03/1&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "BuT wHaT IF tHeY SHut doWN thE GOveRNmenT?? \n\nMotherfucker he did this AFTER your cowardly vote. \n\n[www.nytimes.com/2025/03/1...](https://www.nytimes.com/2025/03/15/us/politics/trump-order-voice-of-america.html?unlocked_article_code=1.4E4.kP1i.rcJMDYCP6hSr&smid=url-share)\n\n\n<img src=\"uploads/2025/9d900a0687.png\" width=\"600\" height=\"387\" alt=\"A headline reports that Trump has ordered the reduction of seven agencies, including the parent organization of Voice of America, with a focus on entities related to labor mediation and homelessness prevention.\">\n",
+				"content_text": "BuT wHaT IF tHeY SHut doWN thE GOveRNmenT?? \n\nMotherfucker he did this AFTER your cowardly vote. \n\n[www.nytimes.com/2025/03/1...](https://www.nytimes.com/2025/03/15/us/politics/trump-order-voice-of-america.html?unlocked_article_code=1.4E4.kP1i.rcJMDYCP6hSr&smid=url-share)\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/9d900a0687.png\" width=\"600\" height=\"387\" alt=\"A headline reports that Trump has ordered the reduction of seven agencies, including the parent organization of Voice of America, with a focus on entities related to labor mediation and homelessness prevention.\">\n",
 				"date_published": "2025-03-15T06:39:29-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/15/but-what-if-they-shut.html"
 			},
@@ -1418,7 +1434,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/14/ran-into-a-celeb-while.html",
 				
 				"content_html": "<p>Ran into a celeb while out trying to walk off my rage. Northwestern, pay your foodservice workers.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ran into a celeb while out trying to walk off my rage. Northwestern, pay your foodservice workers.\n\n<img src=\"uploads/2025/ab7e7fa7e3.jpg\" width=\"600\" height=\"600\" alt=\"Selfie with Scabby the ray\">\n",
+				"content_text": "Ran into a celeb while out trying to walk off my rage. Northwestern, pay your foodservice workers.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/ab7e7fa7e3.jpg\" width=\"600\" height=\"600\" alt=\"Selfie with Scabby the ray\">\n",
 				"date_published": "2025-03-14T17:32:46-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/14/ran-into-a-celeb-while.html"
 			},
@@ -1514,7 +1530,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/09/i-wrote-the-bakery-and.html",
 				
 				"content_html": "<p>I wrote the bakery and asked if I could have their Paczki sign once the week was over and, reader, they said yes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wrote the bakery and asked if I could have their Paczki sign once the week was over and, reader, they said yes.\n\n<img src=\"uploads/2025/d8fa0404b2.jpg\" width=\"337\" height=\"600\" alt=\"A colorful sign advertises various flavors of Paczkis for Fat Tuesday with emphasis on availability until March 8th.\">\n",
+				"content_text": "I wrote the bakery and asked if I could have their Paczki sign once the week was over and, reader, they said yes.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/d8fa0404b2.jpg\" width=\"337\" height=\"600\" alt=\"A colorful sign advertises various flavors of Paczkis for Fat Tuesday with emphasis on availability until March 8th.\">\n",
 				"date_published": "2025-03-09T17:31:42-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/09/i-wrote-the-bakery-and.html"
 			},
@@ -1530,7 +1546,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/08/i-wanna-meet-the-kid.html",
 				
 				"content_html": "<p>I wanna meet the kid that goes to the arcade, wins 2500 tickets, and chooses the backgammon set. Because that kid has got to be awesome.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wanna meet the kid that goes to the arcade, wins 2500 tickets, and chooses the backgammon set. Because that kid has got to be awesome.\n\n<img src=\"uploads/2025/86e0494244.png\" width=\"352\" height=\"600\" alt=\"A display of colorful beach balls and a Backgammon game set is arranged on an arcade wall.\">\n",
+				"content_text": "I wanna meet the kid that goes to the arcade, wins 2500 tickets, and chooses the backgammon set. Because that kid has got to be awesome.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/86e0494244.png\" width=\"352\" height=\"600\" alt=\"A display of colorful beach balls and a Backgammon game set is arranged on an arcade wall.\">\n",
 				"date_published": "2025-03-08T17:46:51-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/08/i-wanna-meet-the-kid.html"
 			},
@@ -1554,7 +1570,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/05/think-weve-forgotten-about-the.html",
 				
 				"content_html": "<p>Think we&rsquo;ve forgotten about the time that Elon was booed so badly by fans of Dave Chapelle (of all people) that he locked himself in his office and Twitter employees considered calling the cops to do a wellness check.</p>\n<p>What I&rsquo;m saying is we can go harder.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Think we've forgotten about the time that Elon was booed so badly by fans of Dave Chapelle (of all people) that he locked himself in his office and Twitter employees considered calling the cops to do a wellness check. \r\n\r\nWhat I'm saying is we can go harder.\r\n\r\n<img src=\"uploads/2025/d81807b19e.png\" alt=\"screenshot that reads Elon Musk almost needed SFPD wellness check after ‘breakdown,’ getting booed at Dave Chappelle show ‘He got to a point where he locked himself in his office, was so upset’ that Twitter employees feared he would hurt himself, the author of a new book says about the billionaire\">\n",
+				"content_text": "Think we've forgotten about the time that Elon was booed so badly by fans of Dave Chapelle (of all people) that he locked himself in his office and Twitter employees considered calling the cops to do a wellness check. \r\n\r\nWhat I'm saying is we can go harder.\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/d81807b19e.png\" alt=\"screenshot that reads Elon Musk almost needed SFPD wellness check after ‘breakdown,’ getting booed at Dave Chappelle show ‘He got to a point where he locked himself in his office, was so upset’ that Twitter employees feared he would hurt himself, the author of a new book says about the billionaire\">\n",
 				"date_published": "2025-03-05T17:35:45-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/05/think-weve-forgotten-about-the.html"
 			},
@@ -1578,7 +1594,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/04/good-mail-day.html",
 				
 				"content_html": "<p>Good mail day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good mail day.\n\n<img src=\"uploads/2025/b0175bdd4f.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Good mail day.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/b0175bdd4f.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2025-03-04T19:46:57-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/04/good-mail-day.html"
 			},
@@ -1586,7 +1602,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/04/the-kids-shirt-captures-my.html",
 				
 				"content_html": "<p>The kid&rsquo;s shirt captures my feelings on watching the speech tonight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The kid's shirt captures my feelings on watching the speech tonight. \n\n<img src=\"uploads/2025/849c07067f.jpg\" width=\"600\" height=\"600\" alt=\"A black T-shirt with Garfield on it and the words &quot;nope not today&quot;\">\n",
+				"content_text": "The kid's shirt captures my feelings on watching the speech tonight. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/849c07067f.jpg\" width=\"600\" height=\"600\" alt=\"A black T-shirt with Garfield on it and the words &quot;nope not today&quot;\">\n",
 				"date_published": "2025-03-04T19:20:40-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/04/the-kids-shirt-captures-my.html"
 			},
@@ -1594,7 +1610,7 @@
 				"id": "http://dansinker.micro.blog/2025/03/04/happy-paczki-day.html",
 				
 				"content_html": "<p>HAPPY PACZKI DAY</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "HAPPY PACZKI DAY \n\n<img src=\"uploads/2025/c145603400.jpg\" width=\"600\" height=\"600\" alt=\"Four delicious paczkis\">\n",
+				"content_text": "HAPPY PACZKI DAY \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/c145603400.jpg\" width=\"600\" height=\"600\" alt=\"Four delicious paczkis\">\n",
 				"date_published": "2025-03-04T08:55:24-05:00",
 				"url": "https://dansinker.micro.blog/2025/03/04/happy-paczki-day.html"
 			},
@@ -1634,7 +1650,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/28/everything-is-very-shitty-so.html",
 				
 				"content_html": "<p>Everything is very shitty! So I wrote abount the unexpected connection between Punk Planet and the Gilmore Girls. <a href=\"https://dansinker.com/posts/2025-02-28-ppy10/\">dansinker.com/posts/202&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Everything is very shitty! So I wrote abount the unexpected connection between Punk Planet and the Gilmore Girls. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-02-28-ppy10/)\r\n\r\n<img src=\"uploads/2025/4f77329bc1.png\" alt=\"Jess, a character from the show the Gilmore Girls, reads a copy of  Punk Planet magazine on a park bench\">\n",
+				"content_text": "Everything is very shitty! So I wrote abount the unexpected connection between Punk Planet and the Gilmore Girls. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-02-28-ppy10/)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/4f77329bc1.png\" alt=\"Jess, a character from the show the Gilmore Girls, reads a copy of  Punk Planet magazine on a park bench\">\n",
 				"date_published": "2025-02-28T18:27:15-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/28/everything-is-very-shitty-so.html"
 			},
@@ -1690,7 +1706,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/26/for-obvious-reasons-worth-pointing.html",
 				
 				"content_html": "<p>For obvious reasons, worth pointing out that Says Who podcast has sold &ldquo;Kick Bezos in the Balls&rdquo; Ts for years. <a href=\"https://merch.sayswhopodcast.com/collections/clothes/products/kick-bezos-in-the-balls-basic-t\">merch.sayswhopodcast.com/collectio&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "For obvious reasons, worth pointing out that Says Who podcast has sold \"Kick Bezos in the Balls\" Ts for years. [merch.sayswhopodcast.com/collectio...](https://merch.sayswhopodcast.com/collections/clothes/products/kick-bezos-in-the-balls-basic-t) \n\n<img src=\"uploads/2025/5babcaeffd.png\" width=\"600\" height=\"566\" alt=\"A green Tshirt that reads &quot;Kick Bezos in the Balls&quot;\">\n",
+				"content_text": "For obvious reasons, worth pointing out that Says Who podcast has sold \"Kick Bezos in the Balls\" Ts for years. [merch.sayswhopodcast.com/collectio...](https://merch.sayswhopodcast.com/collections/clothes/products/kick-bezos-in-the-balls-basic-t) \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/5babcaeffd.png\" width=\"600\" height=\"566\" alt=\"A green Tshirt that reads &quot;Kick Bezos in the Balls&quot;\">\n",
 				"date_published": "2025-02-26T10:21:10-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/26/for-obvious-reasons-worth-pointing.html"
 			},
@@ -1746,7 +1762,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/24/rip-to-the-most-beautiful.html",
 				
 				"content_html": "<p>RIP to the most beautiful woman in puppetland. <a href=\"https://www.nytimes.com/2025/02/23/arts/television/lynne-marie-stewart-dead.html\">www.nytimes.com/2025/02/2&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "RIP to the most beautiful woman in puppetland. [www.nytimes.com/2025/02/2...](https://www.nytimes.com/2025/02/23/arts/television/lynne-marie-stewart-dead.html) \r\n\r\n<img src=\"uploads/2025/59dfd75ca7.png\" alt=\"A still from Pee Wee's Playhouse of Miss Yvonne and Pee Wee together\">\n",
+				"content_text": "RIP to the most beautiful woman in puppetland. [www.nytimes.com/2025/02/2...](https://www.nytimes.com/2025/02/23/arts/television/lynne-marie-stewart-dead.html) \r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/59dfd75ca7.png\" alt=\"A still from Pee Wee's Playhouse of Miss Yvonne and Pee Wee together\">\n",
 				"date_published": "2025-02-24T11:00:21-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/24/rip-to-the-most-beautiful.html"
 			},
@@ -1754,7 +1770,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/23/in-light-of-everything-happening.html",
 				
 				"content_html": "<p>In light of everything happening, I wrote about how the KKK in the 1920s felt unstoppable, about the people that fought against them anyway, and about how fascism always fails. <a href=\"https://dansinker.com/posts/2025-02-23-dale/\">dansinker.com/posts/202&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In light of everything happening, I wrote about how the KKK in the 1920s felt unstoppable, about the people that fought against them anyway, and about how fascism always fails. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-02-23-dale/) \r\n\r\n<img src=\"uploads/2025/0ad952c2d8.png\" alt=\"an archival black and white photograph of the KKK marching in Washington DC with the capitol behind them\">\n",
+				"content_text": "In light of everything happening, I wrote about how the KKK in the 1920s felt unstoppable, about the people that fought against them anyway, and about how fascism always fails. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-02-23-dale/) \r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/0ad952c2d8.png\" alt=\"an archival black and white photograph of the KKK marching in Washington DC with the capitol behind them\">\n",
 				"date_published": "2025-02-23T20:06:52-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/23/in-light-of-everything-happening.html"
 			},
@@ -1818,7 +1834,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/20/just-got-a-cocaine-brick.html",
 				
 				"content_html": "<p>Just got a cocaine brick of TRYING patches delivered. Help me out and get some! <a href=\"https://shop.dansinker.com/products/trying-patch\">shop.dansinker.com/products/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just got a cocaine brick of TRYING patches delivered. Help me out and get some! [shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch)\n\n\n\n<img src=\"uploads/2025/8c9184ead2.jpg\" width=\"600\" height=\"600\" alt=\"A shrink wrapped brick of orange and black patches that read TRYING\">\n",
+				"content_text": "Just got a cocaine brick of TRYING patches delivered. Help me out and get some! [shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch)\n\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/8c9184ead2.jpg\" width=\"600\" height=\"600\" alt=\"A shrink wrapped brick of orange and black patches that read TRYING\">\n",
 				"date_published": "2025-02-20T14:24:53-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/20/just-got-a-cocaine-brick.html"
 			},
@@ -1842,7 +1858,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/18/so-let-me-get-this.html",
 				
 				"content_html": "<p>So let me get this straight: every tech exec and VC is just absolutely tripping balls all the time now and the best they&rsquo;ve come up with is a copyright-eating machine and fascism? <a href=\"https://www.wired.com/story/ketamine-psychedelic-slumber-parties-tech-executives/\">www.wired.com/story/ket&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So let me get this straight: every tech exec and VC is just absolutely tripping balls all the time now and the best they've come up with is a copyright-eating machine and fascism? [www.wired.com/story/ket...](https://www.wired.com/story/ketamine-psychedelic-slumber-parties-tech-executives/)\r\n\r\n<img src=\"uploads/2025/7f19e05aea.png\" alt=\"AS: There’s this huge teddy bear holding a cup of the intramuscular ketamine. We encourage clients to bring things that are meaningful for them—like a journal, photos of loved ones, loved ones that have passed, rocks. It’s just really loving, grounding, and open. SS:  It’s like an executive-coaching psychedelic slumber party. On the first day we do a psycholytic dose of ketamine. It’s not exactly a psychedelic dose, but it lets you kind of just teeter onto the realms. The next day is a mid-dose. That day is all about medicine and integration, and there’s coaching around it.\">\n",
+				"content_text": "So let me get this straight: every tech exec and VC is just absolutely tripping balls all the time now and the best they've come up with is a copyright-eating machine and fascism? [www.wired.com/story/ket...](https://www.wired.com/story/ketamine-psychedelic-slumber-parties-tech-executives/)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/7f19e05aea.png\" alt=\"AS: There’s this huge teddy bear holding a cup of the intramuscular ketamine. We encourage clients to bring things that are meaningful for them—like a journal, photos of loved ones, loved ones that have passed, rocks. It’s just really loving, grounding, and open. SS:  It’s like an executive-coaching psychedelic slumber party. On the first day we do a psycholytic dose of ketamine. It’s not exactly a psychedelic dose, but it lets you kind of just teeter onto the realms. The next day is a mid-dose. That day is all about medicine and integration, and there’s coaching around it.\">\n",
 				"date_published": "2025-02-18T10:51:02-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/18/so-let-me-get-this.html"
 			},
@@ -1850,7 +1866,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/17/im-fun-at-parties.html",
 				
 				"content_html": "<p>I&rsquo;m fun at parties.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm fun at parties. \r\n\r\n<img src=\"uploads/2025/047fd3d6be.png\" alt=\"screengrab of text bubbles that read I dunno all my scenarios involve people dying\">\n",
+				"content_text": "I'm fun at parties. \r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/047fd3d6be.png\" alt=\"screengrab of text bubbles that read I dunno all my scenarios involve people dying\">\n",
 				"date_published": "2025-02-17T22:32:33-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/17/im-fun-at-parties.html"
 			},
@@ -1858,7 +1874,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/17/this-is-the-doge-rat.html",
 				
 				"content_html": "<p>This is the doge rat looking at your tax returns right now. <a href=\"https://www.motherjones.com/politics/2025/02/doge-elon-musk-ron-unz-holocaust-substack-post-sailer-vdare-trump\">www.motherjones.com/politics/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is the doge rat looking at your tax returns right now. [www.motherjones.com/politics/...](https://www.motherjones.com/politics/2025/02/doge-elon-musk-ron-unz-holocaust-substack-post-sailer-vdare-trump)\n\n\n\n<img src=\"uploads/2025/8598381eae.png\" width=\"600\" height=\"524\" alt=\"DOGE Worker Says He Was Radicalized by Reading Writer Who Later Denied Holocaust&10;In a since-deleted Substack post, a member of Elon Musk’s team praised an essay by Ron Unz—who has called the Holocaust potentially a “hoax” and said Trayvon Martin was “a violent young thug.”\">\n",
+				"content_text": "This is the doge rat looking at your tax returns right now. [www.motherjones.com/politics/...](https://www.motherjones.com/politics/2025/02/doge-elon-musk-ron-unz-holocaust-substack-post-sailer-vdare-trump)\n\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/8598381eae.png\" width=\"600\" height=\"524\" alt=\"DOGE Worker Says He Was Radicalized by Reading Writer Who Later Denied Holocaust&10;In a since-deleted Substack post, a member of Elon Musk’s team praised an essay by Ron Unz—who has called the Holocaust potentially a “hoax” and said Trayvon Martin was “a violent young thug.”\">\n",
 				"date_published": "2025-02-17T19:19:26-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/17/this-is-the-doge-rat.html"
 			},
@@ -1914,7 +1930,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/14/the-little-doge-rats-continue.html",
 				
 				"content_html": "<p>The little doge rats continue to be stymied by basic web tech. <a href=\"https://www.theverge.com/news/612865/doge-government-website-database-security-open\">www.theverge.com/news/6128&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The little doge rats continue to be stymied by basic web tech. [www.theverge.com/news/6128...](https://www.theverge.com/news/612865/doge-government-website-database-security-open)\n\n<img src=\"uploads/2025/05660462dc.png\" width=\"600\" height=\"445\" alt=\"Elon Musk’s DOGE website has been defaced because anyone can edit itInstead of using government servers, the DOGE website appears to pull from an insecure database that anyone to edit\">\n",
+				"content_text": "The little doge rats continue to be stymied by basic web tech. [www.theverge.com/news/6128...](https://www.theverge.com/news/612865/doge-government-website-database-security-open)\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/05660462dc.png\" width=\"600\" height=\"445\" alt=\"Elon Musk’s DOGE website has been defaced because anyone can edit itInstead of using government servers, the DOGE website appears to pull from an insecure database that anyone to edit\">\n",
 				"date_published": "2025-02-14T07:29:00-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/14/the-little-doge-rats-continue.html"
 			},
@@ -1938,7 +1954,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/13/well-being-alive-was-fun.html",
 				
 				"content_html": "<p>Well, being alive was fun I guess.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well, being alive was fun I guess.\n\n<img src=\"uploads/2025/1dbf37dd6d.png\" width=\"600\" height=\"596\" alt=\"Screengrab that reads &quot;Live Updates: Robert F Kennedy Jr Confirmed as Trump's Health Secretary&quot;\">\n",
+				"content_text": "Well, being alive was fun I guess.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/1dbf37dd6d.png\" width=\"600\" height=\"596\" alt=\"Screengrab that reads &quot;Live Updates: Robert F Kennedy Jr Confirmed as Trump's Health Secretary&quot;\">\n",
 				"date_published": "2025-02-13T11:36:33-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/13/well-being-alive-was-fun.html"
 			},
@@ -1978,7 +1994,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/11/ill-take-ketamine-for-alex.html",
 				
 				"content_html": "<p>I&rsquo;ll take &ldquo;Ketamine&rdquo; for $500, Alex</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'll take \"Ketamine\" for $500, Alex\n\n<img src=\"uploads/2025/c0ac02f4c2.png\" width=\"600\" height=\"150\" alt=\"\">\n",
+				"content_text": "I'll take \"Ketamine\" for $500, Alex\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/c0ac02f4c2.png\" width=\"600\" height=\"150\" alt=\"\">\n",
 				"date_published": "2025-02-11T13:57:34-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/11/ill-take-ketamine-for-alex.html"
 			},
@@ -1994,7 +2010,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/10/eric-adams-is-on-the.html",
 				
 				"content_html": "<p>Eric Adams is on the first free flight to Turkey to celebrate.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Eric Adams is on the first free flight to Turkey to celebrate. \n\n<img src=\"uploads/2025/d6abd52edc.png\" width=\"600\" height=\"268\" alt=\"A headline reports that the Justice Department has instructed prosecutors to drop a federal corruption case against Adams, highlighting his close relationship with President Trump.\">\n",
+				"content_text": "Eric Adams is on the first free flight to Turkey to celebrate. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/d6abd52edc.png\" width=\"600\" height=\"268\" alt=\"A headline reports that the Justice Department has instructed prosecutors to drop a federal corruption case against Adams, highlighting his close relationship with President Trump.\">\n",
 				"date_published": "2025-02-10T19:26:11-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/10/eric-adams-is-on-the.html"
 			},
@@ -2002,7 +2018,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/10/well-my-fascism-coal-mine.html",
 				
 				"content_html": "<p>Well, my fascism coal mine canary just died.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well, my fascism coal mine canary just died.\n\n\n\n<img src=\"uploads/2025/9506927bb8.png\" width=\"600\" height=\"511\" alt=\"Screen grab of Google maps reading Gulf of America \">\n",
+				"content_text": "Well, my fascism coal mine canary just died.\n\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/9506927bb8.png\" width=\"600\" height=\"511\" alt=\"Screen grab of Google maps reading Gulf of America \">\n",
 				"date_published": "2025-02-10T19:09:35-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/10/well-my-fascism-coal-mine.html"
 			},
@@ -2018,7 +2034,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/09/just-remembered-back-in-the.html",
 				
 				"content_html": "<p>Just remembered back in the day when Philly did this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just remembered back in the day when Philly did this. \n\n<img src=\"uploads/2025/d2197a8444.png\" width=\"600\" height=\"345\" alt=\"A CNN article headline reports that HitchBOT, a hitchhiking robot, was beheaded in Philadelphia.\">\n",
+				"content_text": "Just remembered back in the day when Philly did this. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/d2197a8444.png\" width=\"600\" height=\"345\" alt=\"A CNN article headline reports that HitchBOT, a hitchhiking robot, was beheaded in Philadelphia.\">\n",
 				"date_published": "2025-02-09T22:43:54-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/09/just-remembered-back-in-the.html"
 			},
@@ -2066,7 +2082,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/07/every-day-i-check-my.html",
 				
 				"content_html": "<p>Every day I check my Google Maps like it&rsquo;s some kind of fascist cole mine canary.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every day I check my Google Maps like it's some kind of fascist cole mine canary. \n\n<img src=\"uploads/2025/d4dd8ca304.png\" width=\"600\" height=\"475\" alt=\"A screen grab of Google maps that displays the Gulf of Mexico, still with that name.\">\n",
+				"content_text": "Every day I check my Google Maps like it's some kind of fascist cole mine canary. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/d4dd8ca304.png\" width=\"600\" height=\"475\" alt=\"A screen grab of Google maps that displays the Gulf of Mexico, still with that name.\">\n",
 				"date_published": "2025-02-07T20:30:10-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/07/every-day-i-check-my.html"
 			},
@@ -2178,7 +2194,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/04/absolutely-raced-to-do-it.html",
 				
 				"content_html": "<p>Absolutely raced to do it. Have to be completely thrilled to stop doing the bare-ass minimum level of lip service.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Absolutely raced to do it. Have to be completely thrilled to stop doing the bare-ass minimum level of lip service.\n\n<img src=\"uploads/2025/b17e10faf2.png\" width=\"600\" height=\"366\" alt=\"A headline from The Athletic states that the NFL will remove &quot;End Racism&quot; messaging from the end zone ahead of the Super Bowl.\">\n",
+				"content_text": "Absolutely raced to do it. Have to be completely thrilled to stop doing the bare-ass minimum level of lip service.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/b17e10faf2.png\" width=\"600\" height=\"366\" alt=\"A headline from The Athletic states that the NFL will remove &quot;End Racism&quot; messaging from the end zone ahead of the Super Bowl.\">\n",
 				"date_published": "2025-02-04T21:53:17-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/04/absolutely-raced-to-do-it.html"
 			},
@@ -2242,7 +2258,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/03/sign-of-the-times-that.html",
 				
 				"content_html": "<p>sign of the times that I just had to reup an order for TRYING patches. <a href=\"https://shop.dansinker.com/products/trying-patch\">shop.dansinker.com/products/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "sign of the times that I just had to reup an order for TRYING patches. [shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch)\r\n\r\n<img src=\"uploads/2025/531c93bf54.png\" alt=\"a pile of patches, orange with black type that reads 'trying'\">\n",
+				"content_text": "sign of the times that I just had to reup an order for TRYING patches. [shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/531c93bf54.png\" alt=\"a pile of patches, orange with black type that reads 'trying'\">\n",
 				"date_published": "2025-02-03T12:11:47-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/03/sign-of-the-times-that.html"
 			},
@@ -2250,7 +2266,7 @@
 				"id": "http://dansinker.micro.blog/2025/02/02/come-on-please.html",
 				
 				"content_html": "<p>Come on, please.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Come on, please.\n\n<img src=\"uploads/2025/f9d6578102.png\" width=\"600\" height=\"145\" alt=\"A headline that reads &quot;Newly detected near-Earth asteroid has astronomers full attention&quot;\">\n",
+				"content_text": "Come on, please.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/f9d6578102.png\" width=\"600\" height=\"145\" alt=\"A headline that reads &quot;Newly detected near-Earth asteroid has astronomers full attention&quot;\">\n",
 				"date_published": "2025-02-02T15:40:20-05:00",
 				"url": "https://dansinker.micro.blog/2025/02/02/come-on-please.html"
 			},
@@ -2290,7 +2306,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/31/seems-like-someone-is-fucking.html",
 				
 				"content_html": "<p>Seems like someone is fucking around with governmental DNS records. What could possibly go wrong. <!-- raw HTML omitted --> <!-- raw HTML omitted --></p>\n",
-				"content_text": "Seems like someone is fucking around with governmental DNS records. What could possibly go wrong. <img src=\"uploads/2025/d7ae6bf1c6.png\" alt=\"screenshot of census.gov returning a 508 error\"> <img src=\"uploads/2025/2ef3830160.png\" alt=\"screenshot of faa.gov with a 'this site can't be reached' error\">\n",
+				"content_text": "Seems like someone is fucking around with governmental DNS records. What could possibly go wrong. <img src=\"https://dansinker.micro.blog/uploads/2025/d7ae6bf1c6.png\" alt=\"screenshot of census.gov returning a 508 error\"> <img src=\"https://dansinker.micro.blog/uploads/2025/2ef3830160.png\" alt=\"screenshot of faa.gov with a 'this site can't be reached' error\">\n",
 				"date_published": "2025-01-31T18:12:24-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/31/seems-like-someone-is-fucking.html"
 			},
@@ -2338,7 +2354,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/29/my-notebook-just-full-of.html",
 				
 				"content_html": "<p>My notebook just full of shit like this now.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My notebook just full of shit like this now.\n\n<img src=\"uploads/2025/d2671da190.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "My notebook just full of shit like this now.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/d2671da190.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-29T17:07:14-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/29/my-notebook-just-full-of.html"
 			},
@@ -2346,7 +2362,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/29/seeing-chicago-stand-up-against.html",
 				
 				"content_html": "<p>Seeing Chicago stand up against ICE this week reminded me of why I love this city so much, and gave me a focal point for a reflection on the 50th issue of Punk Planet, which was dedicated to the city. Read it: <a href=\"https://dansinker.com/posts/2025-01-29-ppy9/\">dansinker.com/posts/202&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Seeing Chicago stand up against ICE this week reminded me of why I love this city so much, and gave me a focal point for a reflection on the 50th issue of Punk Planet, which was dedicated to the city. Read it: [dansinker.com/posts/202...](https://dansinker.com/posts/2025-01-29-ppy9/)\r\n\r\n<img src=\"uploads/2025/13ed7b75ab.png\" alt=\"text that reads In Chicago, you do your work in an honest fashion. You don't fuck people over. You treat people with the respect and the honestly you would want them to treat you with. In Chicago, you do your work because it's the work that defines you. If you can go home knowing that you made an honest wage, you can go home proud.\">\n",
+				"content_text": "Seeing Chicago stand up against ICE this week reminded me of why I love this city so much, and gave me a focal point for a reflection on the 50th issue of Punk Planet, which was dedicated to the city. Read it: [dansinker.com/posts/202...](https://dansinker.com/posts/2025-01-29-ppy9/)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/13ed7b75ab.png\" alt=\"text that reads In Chicago, you do your work in an honest fashion. You don't fuck people over. You treat people with the respect and the honestly you would want them to treat you with. In Chicago, you do your work because it's the work that defines you. If you can go home knowing that you made an honest wage, you can go home proud.\">\n",
 				"date_published": "2025-01-29T16:14:35-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/29/seeing-chicago-stand-up-against.html"
 			},
@@ -2378,7 +2394,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/28/i-didnt-believe-this-was.html",
 				
 				"content_html": "<p>I didn&rsquo;t believe this was a real headline because it&rsquo;s just too perfect, but it really is.</p>\n<p>🤞🤞🤞✈️🤞🤞🤞</p>\n<p><a href=\"https://www.cnbc.com/2025/01/28/elon-musk-boeing-air-force-one-replacements.html\">www.cnbc.com/2025/01/2&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I didn't believe this was a real headline because it's just too perfect, but it really is. \n\n🤞🤞🤞✈️🤞🤞🤞\n\n[www.cnbc.com/2025/01/2...](https://www.cnbc.com/2025/01/28/elon-musk-boeing-air-force-one-replacements.html)\n\n<img src=\"uploads/2025/669284a7e4.jpg\" width=\"600\" height=\"172\" alt=\"\">\n",
+				"content_text": "I didn't believe this was a real headline because it's just too perfect, but it really is. \n\n🤞🤞🤞✈️🤞🤞🤞\n\n[www.cnbc.com/2025/01/2...](https://www.cnbc.com/2025/01/28/elon-musk-boeing-air-force-one-replacements.html)\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/669284a7e4.jpg\" width=\"600\" height=\"172\" alt=\"\">\n",
 				"date_published": "2025-01-28T21:06:25-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/28/i-didnt-believe-this-was.html"
 			},
@@ -2514,7 +2530,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/23/last-night-i-wrote-about.html",
 				
 				"content_html": "<p>Last night I wrote about right now, the collapse of media, and the need for all of us to make things outside of the oligarchy, because we&rsquo;re all we have. <a href=\"https://dansinker.com/posts/2025-01-22-seeds/\">dansinker.com/posts/202&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Last night I wrote about right now, the collapse of media, and the need for all of us to make things outside of the oligarchy, because we're all we have. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-01-22-seeds/)\r\n\r\n<img src=\"uploads/2025/d3b4517f39.png\" alt=\"the words 'Right now is not a good time for information. But information wants to get out. And it's on us to do it. We're all we have left.'\">\n",
+				"content_text": "Last night I wrote about right now, the collapse of media, and the need for all of us to make things outside of the oligarchy, because we're all we have. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-01-22-seeds/)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/d3b4517f39.png\" alt=\"the words 'Right now is not a good time for information. But information wants to get out. And it's on us to do it. We're all we have left.'\">\n",
 				"date_published": "2025-01-23T18:46:58-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/23/last-night-i-wrote-about.html"
 			},
@@ -2554,7 +2570,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/21/no-time-for-bullshit-in.html",
 				
 				"content_html": "<p>No time for bullshit in my inbox today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No time for bullshit in my inbox today. \n\n<img src=\"uploads/2025/26ba6a1cb6.png\" width=\"584\" height=\"600\" alt=\"\">\n",
+				"content_text": "No time for bullshit in my inbox today. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/26ba6a1cb6.png\" width=\"584\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-21T16:00:35-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/21/no-time-for-bullshit-in.html"
 			},
@@ -2570,7 +2586,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/21/greetings-from-the-thermometer-on.html",
 				
 				"content_html": "<p>Greetings from the thermometer on my back porch</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Greetings from the thermometer on my back porch\n\n<img src=\"uploads/2025/a337ba6f83.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Greetings from the thermometer on my back porch\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/a337ba6f83.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-21T09:26:17-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/21/greetings-from-the-thermometer-on.html"
 			},
@@ -2602,7 +2618,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/20/my-st-pauli-antifascist-hoodie.html",
 				
 				"content_html": "<p>My St Pauli ANTIFASCIST hoodie is all I&rsquo;ll be wearing for the next while k thanks.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My St Pauli ANTIFASCIST hoodie is all I'll be wearing for the next while k thanks.\n\n<img src=\"uploads/2025/02efaa4c72.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "My St Pauli ANTIFASCIST hoodie is all I'll be wearing for the next while k thanks.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/02efaa4c72.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-20T14:15:35-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/20/my-st-pauli-antifascist-hoodie.html"
 			},
@@ -2634,7 +2650,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/19/i-just-keep-writing-pithy.html",
 				
 				"content_html": "<p>I just keep writing pithy little posts and deleting them and then writing new little jokes and deleting them and then just staring into the middle distance for a while and then trying again</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I just keep writing pithy little posts and deleting them and then writing new little jokes and deleting them and then just staring into the middle distance for a while and then trying again\n\n<img src=\"uploads/2025/f137a5243a.png\" width=\"600\" height=\"357\" alt=\"\">\n",
+				"content_text": "I just keep writing pithy little posts and deleting them and then writing new little jokes and deleting them and then just staring into the middle distance for a while and then trying again\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/f137a5243a.png\" width=\"600\" height=\"357\" alt=\"\">\n",
 				"date_published": "2025-01-19T17:07:33-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/19/i-just-keep-writing-pithy.html"
 			},
@@ -2650,7 +2666,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/19/finally-took-care-of-the.html",
 				
 				"content_html": "<p>Finally took care of the real enemy, Marvel Snap.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally took care of the real enemy, Marvel Snap. \n\n<img src=\"uploads/2025/04c1fb78e1.png\" width=\"270\" height=\"600\" alt=\"\">\n",
+				"content_text": "Finally took care of the real enemy, Marvel Snap. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/04c1fb78e1.png\" width=\"270\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-19T14:38:15-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/19/finally-took-care-of-the.html"
 			},
@@ -2674,7 +2690,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/18/chicago-its-time-to-protect.html",
 				
 				"content_html": "<p>Chicago, it&rsquo;s time to protect your neighbors.</p>\n<p>gift link: <a href=\"https://www.nytimes.com/2025/01/17/us/politics/trump-immigration-raids-chicago.html?unlocked_article_code=1.qE4.9Tao.38JcgUO7DAAB&amp;smid=url-share\">www.nytimes.com/2025/01/1&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Chicago, it's time to protect your neighbors.\n\ngift link: [www.nytimes.com/2025/01/1...](https://www.nytimes.com/2025/01/17/us/politics/trump-immigration-raids-chicago.html?unlocked_article_code=1.qE4.9Tao.38JcgUO7DAAB&smid=url-share) \n\n<img src=\"uploads/2025/29eb8ae089.png\" width=\"600\" height=\"579\" alt=\"\">\n",
+				"content_text": "Chicago, it's time to protect your neighbors.\n\ngift link: [www.nytimes.com/2025/01/1...](https://www.nytimes.com/2025/01/17/us/politics/trump-immigration-raids-chicago.html?unlocked_article_code=1.qE4.9Tao.38JcgUO7DAAB&smid=url-share) \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/29eb8ae089.png\" width=\"600\" height=\"579\" alt=\"\">\n",
 				"date_published": "2025-01-18T09:49:49-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/18/chicago-its-time-to-protect.html"
 			},
@@ -2690,7 +2706,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/16/inauguration-shoes-just-arrived.html",
 				
 				"content_html": "<p>Inauguration shoes just arrived.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Inauguration shoes just arrived. \n\n<img src=\"uploads/2025/6f4a78d627.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Inauguration shoes just arrived. \n\n<img src=\"https://dansinker.micro.blog/uploads/2025/6f4a78d627.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-16T19:17:53-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/16/inauguration-shoes-just-arrived.html"
 			},
@@ -2706,7 +2722,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/16/rip-david-lynch-king-of.html",
 				
 				"content_html": "<p>RIP David Lynch. King of the weirdos.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "RIP David Lynch. King of the weirdos.\n\n<img src=\"uploads/2025/53ff8ad30d.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
+				"content_text": "RIP David Lynch. King of the weirdos.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/53ff8ad30d.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-16T13:24:25-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/16/rip-david-lynch-king-of.html"
 			},
@@ -2714,7 +2730,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/16/ive-worked-with-dinks-like.html",
 				
 				"content_html": "<p>I&rsquo;ve worked with dinks like this before that put enormous numbers on a slide deck and the bosses nod enthusiastically and reset everything to meet a made up goal that will never be achieved. (from <a href=\"https://www.nytimes.com/2025/01/16/business/media/the-washington-post-new-mission.html\">www.nytimes.com/2025/01/1&hellip;</a> )</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've worked with dinks like this before that put enormous numbers on a slide deck and the bosses nod enthusiastically and reset everything to meet a made up goal that will never be achieved. (from [www.nytimes.com/2025/01/1...](https://www.nytimes.com/2025/01/16/business/media/the-washington-post-new-mission.html) )\n\n\n\n<img src=\"uploads/2025/21f102985b.png\" width=\"600\" height=\"462\" alt=\"\">\n",
+				"content_text": "I've worked with dinks like this before that put enormous numbers on a slide deck and the bosses nod enthusiastically and reset everything to meet a made up goal that will never be achieved. (from [www.nytimes.com/2025/01/1...](https://www.nytimes.com/2025/01/16/business/media/the-washington-post-new-mission.html) )\n\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/21f102985b.png\" width=\"600\" height=\"462\" alt=\"\">\n",
 				"date_published": "2025-01-16T10:18:50-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/16/ive-worked-with-dinks-like.html"
 			},
@@ -2818,7 +2834,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/12/sometimes-i-lie-awake-and.html",
 				
 				"content_html": "<p>Sometimes I lie awake and think about these headlines and sometimes I just lie awake.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sometimes I lie awake and think about these headlines and sometimes I just lie awake.\n\n<img src=\"uploads/2025/1b947257c2.png\" width=\"270\" height=\"600\" alt=\"\"><img src=\"uploads/2025/00aa763fae.png\" width=\"270\" height=\"600\" alt=\"\">\n",
+				"content_text": "Sometimes I lie awake and think about these headlines and sometimes I just lie awake.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/1b947257c2.png\" width=\"270\" height=\"600\" alt=\"\"><img src=\"https://dansinker.micro.blog/uploads/2025/00aa763fae.png\" width=\"270\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-12T05:25:08-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/12/sometimes-i-lie-awake-and.html"
 			},
@@ -2866,7 +2882,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/10/banner-day-for-wrist-slaps.html",
 				
 				"content_html": "<p>banner day for wrist slaps. <a href=\"https://www.reuters.com/legal/us-sec-charges-vince-mcmahon-failure-disclose-settlement-agreements-2025-01-10/\">www.reuters.com/legal/us-&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "banner day for wrist slaps. [www.reuters.com/legal/us-...](https://www.reuters.com/legal/us-sec-charges-vince-mcmahon-failure-disclose-settlement-agreements-2025-01-10/)\r\n\r\n<img src=\"uploads/2025/5fad87c765.png\" alt=\"\">\n",
+				"content_text": "banner day for wrist slaps. [www.reuters.com/legal/us-...](https://www.reuters.com/legal/us-sec-charges-vince-mcmahon-failure-disclose-settlement-agreements-2025-01-10/)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/5fad87c765.png\" alt=\"\">\n",
 				"date_published": "2025-01-10T09:46:55-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/10/banner-day-for-wrist-slaps.html"
 			},
@@ -2906,7 +2922,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/08/every-year-without-fail-the.html",
 				
 				"content_html": "<p>Every year without fail the online quickie ordaining site sends me a happy anniversary email from when I became a reverend.</p>\n<p>Anyway, happy 7th anniversary to me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every year without fail the online quickie ordaining site sends me a happy anniversary email from when I became a reverend. \r\n\r\nAnyway, happy 7th anniversary to me. \r\n\r\n<img src=\"uploads/2025/3166f04992.png\" alt=\"\">\n",
+				"content_text": "Every year without fail the online quickie ordaining site sends me a happy anniversary email from when I became a reverend. \r\n\r\nAnyway, happy 7th anniversary to me. \r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/3166f04992.png\" alt=\"\">\n",
 				"date_published": "2025-01-08T21:52:20-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/08/every-year-without-fail-the.html"
 			},
@@ -2914,7 +2930,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/08/yesterday-i-wrote-about-getting.html",
 				
 				"content_html": "<p>Yesterday I wrote about getting off Threads and how we all need to define the lines we won&rsquo;t cross now that every tech exec has bent the knee to Trump. <a href=\"https://dansinker.com/posts/2025-01-07-threads/\">dansinker.com/posts/202&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yesterday I wrote about getting off Threads and how we all need to define the lines we won't cross now that every tech exec has bent the knee to Trump. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-01-07-threads/)\r\n\r\n<img src=\"uploads/2025/07d2a10aba.png\" alt=\"So goodbye Threads, you were never very good. And fuck you, Mark Zuckerberg, neither were you.\">\n",
+				"content_text": "Yesterday I wrote about getting off Threads and how we all need to define the lines we won't cross now that every tech exec has bent the knee to Trump. [dansinker.com/posts/202...](https://dansinker.com/posts/2025-01-07-threads/)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2025/07d2a10aba.png\" alt=\"So goodbye Threads, you were never very good. And fuck you, Mark Zuckerberg, neither were you.\">\n",
 				"date_published": "2025-01-08T19:36:50-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/08/yesterday-i-wrote-about-getting.html"
 			},
@@ -3058,7 +3074,7 @@
 				"id": "http://dansinker.micro.blog/2025/01/01/here-we-go.html",
 				
 				"content_html": "<p>Here we go.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Here we go.\n\n<img src=\"uploads/2025/66f8b7f6c6.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Here we go.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/66f8b7f6c6.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-01T01:03:16-05:00",
 				"url": "https://dansinker.micro.blog/2025/01/01/here-we-go.html"
 			},
@@ -3114,7 +3130,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/29/the-teen-picked-up-a.html",
 				
 				"content_html": "<p>The teen picked up a new game.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The teen picked up a new game.\n\n<img src=\"uploads/2024/bea166d032.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "The teen picked up a new game.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/bea166d032.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-29T22:32:20-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/29/the-teen-picked-up-a.html"
 			},
@@ -3170,7 +3186,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/25/to-all-a-good-night.html",
 				
 				"content_html": "<p>To all a good night.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "To all a good night.\n\n<img src=\"uploads/2024/674605a4df.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "To all a good night.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/674605a4df.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2024-12-25T22:31:38-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/25/to-all-a-good-night.html"
 			},
@@ -3218,7 +3234,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/23/watching-the-only-christmas-movie.html",
 				
 				"content_html": "<p>Watching the only Christmas movie necessary.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Watching the only Christmas movie necessary.\n\n<img src=\"uploads/2024/28112ddf40.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Watching the only Christmas movie necessary.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/28112ddf40.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2024-12-23T21:37:04-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/23/watching-the-only-christmas-movie.html"
 			},
@@ -3234,7 +3250,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/23/todays-the-last-day-ill.html",
 				
 				"content_html": "<p>Today&rsquo;s the last day I&rsquo;ll be shipping stickers &amp; patches from my shop until the 26th, so get those last-minute orders in! <a href=\"https://shop.dansinker.com/\">shop.dansinker.com</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today's the last day I'll be shipping stickers & patches from my shop until the 26th, so get those last-minute orders in! [shop.dansinker.com](https://shop.dansinker.com/) \r\n\r\n\r\n\n\n<img src=\"uploads/2024/trying-sheet.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Today's the last day I'll be shipping stickers & patches from my shop until the 26th, so get those last-minute orders in! [shop.dansinker.com](https://shop.dansinker.com/) \r\n\r\n\r\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/trying-sheet.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-23T10:54:04-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/23/todays-the-last-day-ill.html"
 			},
@@ -3250,7 +3266,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/23/the-death-penalty-is-barbaric.html",
 				
 				"content_html": "<p>The death penalty is barbaric and this is an inarguably good thing. <a href=\"https://www.nytimes.com/2024/12/23/us/politics/biden-commutes-37-death-sentences.html\">www.nytimes.com/2024/12/2&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The death penalty is barbaric and this is an inarguably good thing. [www.nytimes.com/2024/12/2...](https://www.nytimes.com/2024/12/23/us/politics/biden-commutes-37-death-sentences.html)\n\n<img src=\"uploads/2024/15aee2db8e.png\" width=\"600\" height=\"319\" alt=\"\">\n",
+				"content_text": "The death penalty is barbaric and this is an inarguably good thing. [www.nytimes.com/2024/12/2...](https://www.nytimes.com/2024/12/23/us/politics/biden-commutes-37-death-sentences.html)\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/15aee2db8e.png\" width=\"600\" height=\"319\" alt=\"\">\n",
 				"date_published": "2024-12-23T09:25:53-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/23/the-death-penalty-is-barbaric.html"
 			},
@@ -3274,7 +3290,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/21/the-claw-marks.html",
 				
 				"content_html": "<p>The claw marks on the side of Pep&rsquo;s head are giving me life.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The claw marks on the side of Pep's head are giving me life.\n\n<img src=\"uploads/2024/fef10eee64.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The claw marks on the side of Pep's head are giving me life.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/fef10eee64.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-21T11:39:37-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/21/the-claw-marks.html"
 			},
@@ -3290,7 +3306,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/20/emmet-otter-time.html",
 				
 				"content_html": "<p>Emmet Otter time</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Emmet Otter time\n\n<img src=\"uploads/2024/58f99cc579.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Emmet Otter time\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/58f99cc579.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2024-12-20T21:03:05-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/20/emmet-otter-time.html"
 			},
@@ -3298,7 +3314,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/20/i-think-about.html",
 				
 				"content_html": "<p>I think about the ending of Roger Ebert&rsquo;s 2004 review of M Night Shyamalan&rsquo;s The Village on a regular basis. It is a perfect piece of writing. <a href=\"https://www.rogerebert.com/reviews/the-village-2004\">www.rogerebert.com/reviews/t&hellip;</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I think about the ending of Roger Ebert's 2004 review of M Night Shyamalan's The Village on a regular basis. It is a perfect piece of writing. [www.rogerebert.com/reviews/t...](https://www.rogerebert.com/reviews/the-village-2004)\n\n<img src=\"uploads/2024/3ebbb14d28.png\" width=\"600\" height=\"401\" alt=\"\"><img src=\"uploads/2024/2c9dbf7165.png\" width=\"600\" height=\"326\" alt=\"\">\n",
+				"content_text": "I think about the ending of Roger Ebert's 2004 review of M Night Shyamalan's The Village on a regular basis. It is a perfect piece of writing. [www.rogerebert.com/reviews/t...](https://www.rogerebert.com/reviews/the-village-2004)\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/3ebbb14d28.png\" width=\"600\" height=\"401\" alt=\"\"><img src=\"https://dansinker.micro.blog/uploads/2024/2c9dbf7165.png\" width=\"600\" height=\"326\" alt=\"\">\n",
 				"date_published": "2024-12-20T10:25:07-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/20/i-think-about.html"
 			},
@@ -3354,7 +3370,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/16/there-have-been.html",
 				
 				"content_html": "<p>There have been TWO HUNDRED AND FIFTY EIGHT school shootings THIS YEAR????</p>\n<p>No one else in the world lives like this. We should not put up with living like this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There have been TWO HUNDRED AND FIFTY EIGHT school shootings THIS YEAR????\n\nNo one else in the world lives like this. We should not put up with living like this.\n\n<img src=\"uploads/2024/758d69b1fe.png\" width=\"600\" height=\"251\" alt=\"\">\n",
+				"content_text": "There have been TWO HUNDRED AND FIFTY EIGHT school shootings THIS YEAR????\n\nNo one else in the world lives like this. We should not put up with living like this.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/758d69b1fe.png\" width=\"600\" height=\"251\" alt=\"\">\n",
 				"date_published": "2024-12-16T22:49:54-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/16/there-have-been.html"
 			},
@@ -3370,7 +3386,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/16/hey-why-not.html",
 				
 				"content_html": "<p>Hey, why not remind someone to keep Trying this holiday season? A TRYING sticker &amp; patch set is only $12, ships free in the US,  and fits great in a stocking. Order soon! <a href=\"https://shop.dansinker.com/products/trying-patch-sticker-set\">shop.dansinker.com/products/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hey, why not remind someone to keep Trying this holiday season? A TRYING sticker & patch set is only $12, ships free in the US,  and fits great in a stocking. Order soon! [shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch-sticker-set)\r\n\r\n\n\n<img src=\"uploads/2024/12b121738a.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hey, why not remind someone to keep Trying this holiday season? A TRYING sticker & patch set is only $12, ships free in the US,  and fits great in a stocking. Order soon! [shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch-sticker-set)\r\n\r\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/12b121738a.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-16T19:10:32-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/16/hey-why-not.html"
 			},
@@ -3386,7 +3402,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/15/thechecks-noteswoody-guthrie.html",
 				
 				"content_html": "<p>The—checks notes—Woody Guthrie Center is going the exact proper amount of hard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The—checks notes—Woody Guthrie Center is going the exact proper amount of hard.\n\n<img src=\"uploads/2024/93840c97be.png\" width=\"483\" height=\"600\" alt=\"\">\n",
+				"content_text": "The—checks notes—Woody Guthrie Center is going the exact proper amount of hard.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/93840c97be.png\" width=\"483\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-15T21:31:51-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/15/thechecks-noteswoody-guthrie.html"
 			},
@@ -3402,7 +3418,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/15/this-is-the.html",
 				
 				"content_html": "<p>This is the actual cover of the Melania Trump book??? They really spared no expense for this one huh</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is the actual cover of the Melania Trump book??? They really spared no expense for this one huh\n\n<img src=\"uploads/2024/94cb9f0089.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "This is the actual cover of the Melania Trump book??? They really spared no expense for this one huh\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/94cb9f0089.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-15T19:08:33-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/15/this-is-the.html"
 			},
@@ -3442,7 +3458,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/14/got-to-hang.html",
 				
 				"content_html": "<p>Got to hang out with trays and trays of Cooper Black tonight, at the Starshaped Press open house.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got to hang out with trays and trays of Cooper Black tonight, at the Starshaped Press open house. \n\n<img src=\"uploads/2024/3949422dab.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Got to hang out with trays and trays of Cooper Black tonight, at the Starshaped Press open house. \n\n<img src=\"https://dansinker.micro.blog/uploads/2024/3949422dab.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2024-12-14T22:53:26-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/14/got-to-hang.html"
 			},
@@ -3474,7 +3490,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/12/im-in-a.html",
 				
 				"content_html": "<p>I&rsquo;m in a hotel that costs many hundreds of dollars a night and this is the shower head placement.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm in a hotel that costs many hundreds of dollars a night and this is the shower head placement. \n\n<img src=\"uploads/2024/2c94d4f2fc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I'm in a hotel that costs many hundreds of dollars a night and this is the shower head placement. \n\n<img src=\"https://dansinker.micro.blog/uploads/2024/2c94d4f2fc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-12T11:57:18-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/12/im-in-a.html"
 			},
@@ -3490,7 +3506,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/10/it-took-a.html",
 				
 				"content_html": "<p>It took a murder to get this discussion on Good Morning America \n<!-- raw HTML omitted --></p>\n",
-				"content_text": "It took a murder to get this discussion on Good Morning America \r\n<img src=\"uploads/2024/a7197aff09.png\" alt=\"\">\n",
+				"content_text": "It took a murder to get this discussion on Good Morning America \r\n<img src=\"https://dansinker.micro.blog/uploads/2024/a7197aff09.png\" alt=\"\">\n",
 				"date_published": "2024-12-10T15:48:20-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/10/it-took-a.html"
 			},
@@ -3554,7 +3570,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/06/surprise-friday-night.html",
 				
 				"content_html": "<p>Surprise Friday night merch drop at my little webstore: Throwback Ts!</p>\n<p>A couple designs from other lifetimes. Punk Planet! Quaxelrod! $25!</p>\n<p><a href=\"https://shop.dansinker.com/\">shop.dansinker.com</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Surprise Friday night merch drop at my little webstore: Throwback Ts! \r\n\r\nA couple designs from other lifetimes. Punk Planet! Quaxelrod! $25! \r\n\r\n[shop.dansinker.com](https://shop.dansinker.com/)\r\n\r\n<img src=\"uploads/2024/d8f80686d0.png\" alt=\"photos of two T-shirts, one Punk Planet and one featuring the majestic duck Quaxelrod\">\n",
+				"content_text": "Surprise Friday night merch drop at my little webstore: Throwback Ts! \r\n\r\nA couple designs from other lifetimes. Punk Planet! Quaxelrod! $25! \r\n\r\n[shop.dansinker.com](https://shop.dansinker.com/)\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2024/d8f80686d0.png\" alt=\"photos of two T-shirts, one Punk Planet and one featuring the majestic duck Quaxelrod\">\n",
 				"date_published": "2024-12-06T21:00:40-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/06/surprise-friday-night.html"
 			},
@@ -3602,7 +3618,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/05/this-investigation-of.html",
 				
 				"content_html": "<p>This investigation of cops all over the place reselling tens of thousands of guns on the sly over YEARS in basically full knowledge of the feds who won&rsquo;t prosecute should perhaps be a bigger story? <a href=\"https://www.cbsnews.com/news/police-selling-restricted-guns-posties/\">www.cbsnews.com/news/poli&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This investigation of cops all over the place reselling tens of thousands of guns on the sly over YEARS in basically full knowledge of the feds who won't prosecute should perhaps be a bigger story? [www.cbsnews.com/news/poli...](https://www.cbsnews.com/news/police-selling-restricted-guns-posties/)\n\n<img src=\"uploads/2024/b21a144761.png\" width=\"478\" height=\"600\" alt=\"\">\n",
+				"content_text": "This investigation of cops all over the place reselling tens of thousands of guns on the sly over YEARS in basically full knowledge of the feds who won't prosecute should perhaps be a bigger story? [www.cbsnews.com/news/poli...](https://www.cbsnews.com/news/police-selling-restricted-guns-posties/)\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/b21a144761.png\" width=\"478\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-05T08:40:05-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/05/this-investigation-of.html"
 			},
@@ -3674,7 +3690,7 @@
 				"id": "http://dansinker.micro.blog/2024/12/02/finally-impressed-the.html",
 				
 				"content_html": "<p>finally impressed the teen. \n<!-- raw HTML omitted --></p>\n",
-				"content_text": "finally impressed the teen. \r\n<img src=\"uploads/2024/4b6d496947.png\" alt=\"\">\n",
+				"content_text": "finally impressed the teen. \r\n<img src=\"https://dansinker.micro.blog/uploads/2024/4b6d496947.png\" alt=\"\">\n",
 				"date_published": "2024-12-02T11:59:26-05:00",
 				"url": "https://dansinker.micro.blog/2024/12/02/finally-impressed-the.html"
 			},
@@ -3730,7 +3746,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/29/not-really-a.html",
 				
 				"content_html": "<p>Not really a Black Friday guy, but you can get a TRYING patch &amp; sticker set for the already really low price of $12. Ships free in US with a stamp. <a href=\"https://shop.dansinker.com/products/trying-patch-sticker-set\">shop.dansinker.com/products/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not really a Black Friday guy, but you can get a TRYING patch & sticker set for the already really low price of $12. Ships free in US with a stamp. [shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch-sticker-set) \r\n\r\n\n\n<img src=\"uploads/2024/tryingset.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Not really a Black Friday guy, but you can get a TRYING patch & sticker set for the already really low price of $12. Ships free in US with a stamp. [shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch-sticker-set) \r\n\r\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/tryingset.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-29T12:25:09-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/29/not-really-a.html"
 			},
@@ -3794,7 +3810,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/26/hey-evening-crew.html",
 				
 				"content_html": "<p>Hey evening crew, TRYING sticker sheets are brand new at my webstore today. Stick em wherever you need a reminder to keep trying. $6 for a five sticker sheet, ships free. Order lots.</p>\n<p><a href=\"https://shop.dansinker.com/products/trying-sticker-sheet\">shop.dansinker.com/products/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hey evening crew, TRYING sticker sheets are brand new at my webstore today. Stick em wherever you need a reminder to keep trying. $6 for a five sticker sheet, ships free. Order lots. \n\n[shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-sticker-sheet)\n\n<img src=\"uploads/2024/6478635f54.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hey evening crew, TRYING sticker sheets are brand new at my webstore today. Stick em wherever you need a reminder to keep trying. $6 for a five sticker sheet, ships free. Order lots. \n\n[shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-sticker-sheet)\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/6478635f54.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-26T21:10:02-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/26/hey-evening-crew.html"
 			},
@@ -3802,7 +3818,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/26/by-very-popular.html",
 				
 				"content_html": "<p>By <em>very</em> popular demand, I finally made TRYING stickers. Grab  sheet of five, various nice colors, just $6. Ships free in US.</p>\n<p><a href=\"https://shop.dansinker.com/products/trying-sticker-sheet\">shop.dansinker.com/products/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "By *very* popular demand, I finally made TRYING stickers. Grab  sheet of five, various nice colors, just $6. Ships free in US. \n\n[shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-sticker-sheet)\n\n<img src=\"uploads/2024/b19e93c45c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "By *very* popular demand, I finally made TRYING stickers. Grab  sheet of five, various nice colors, just $6. Ships free in US. \n\n[shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-sticker-sheet)\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/b19e93c45c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-26T15:00:04-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/26/by-very-popular.html"
 			},
@@ -3922,7 +3938,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/21/lol-emdashfan-might.html",
 				
 				"content_html": "<p>lol emdash.fan might be the most robust thing I&rsquo;ve ever built. the last time I touched the file was over five years ago. It just gives you your emdash, no fuss, no problem. Bulletproof.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "lol emdash.fan might be the most robust thing I've ever built. the last time I touched the file was over five years ago. It just gives you your emdash, no fuss, no problem. Bulletproof. \r\n\r\n<img src=\"uploads/2024/99606d18a4.png\" alt=\"\">\n",
+				"content_text": "lol emdash.fan might be the most robust thing I've ever built. the last time I touched the file was over five years ago. It just gives you your emdash, no fuss, no problem. Bulletproof. \r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2024/99606d18a4.png\" alt=\"\">\n",
 				"date_published": "2024-11-21T17:55:44-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/21/lol-emdashfan-might.html"
 			},
@@ -3954,7 +3970,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/21/well-jd-clearly.html",
 				
 				"content_html": "<p>Well, JD clearly nailed his one job yesterday. <!-- raw HTML omitted --></p>\n",
-				"content_text": "Well, JD clearly nailed his one job yesterday. <img src=\"uploads/2024/03f913ce2c.png\" alt=\"\">\n",
+				"content_text": "Well, JD clearly nailed his one job yesterday. <img src=\"https://dansinker.micro.blog/uploads/2024/03f913ce2c.png\" alt=\"\">\n",
 				"date_published": "2024-11-21T13:09:43-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/21/well-jd-clearly.html"
 			},
@@ -3962,7 +3978,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/21/current-status.html",
 				
 				"content_html": "<p>Current status.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Current status.\n\n<img src=\"uploads/2024/5fcf7f03de.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Current status.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/5fcf7f03de.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-21T10:20:50-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/21/current-status.html"
 			},
@@ -4010,7 +4026,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/19/sure-lets-go.html",
 				
 				"content_html": "<p>Sure let&rsquo;s go with the former CEO of World Wrestling Entertainment for the head of the Department of Education. Why not.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sure let's go with the former CEO of World Wrestling Entertainment for the head of the Department of Education. Why not. \n\n<img src=\"uploads/2024/4416aa056b.png\" width=\"600\" height=\"258\" alt=\"\">\n",
+				"content_text": "Sure let's go with the former CEO of World Wrestling Entertainment for the head of the Department of Education. Why not. \n\n<img src=\"https://dansinker.micro.blog/uploads/2024/4416aa056b.png\" width=\"600\" height=\"258\" alt=\"\">\n",
 				"date_published": "2024-11-19T22:11:07-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/19/sure-lets-go.html"
 			},
@@ -4066,7 +4082,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/17/went-by-the.html",
 				
 				"content_html": "<p>Went by the Daily Leader newspaper building in tiny Pontiac, Illinois this weekend and was blown away by the history of print mosaic that wrapped the building, starting with cave paintings and ending with a sweet 1970s newspaper tableau. \n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Went by the Daily Leader newspaper building in tiny Pontiac, Illinois this weekend and was blown away by the history of print mosaic that wrapped the building, starting with cave paintings and ending with a sweet 1970s newspaper tableau. \r\n<img src=\"uploads/2024/ecde219819.png\" alt=\"the Daily Leader building in Pontiac illinois, a one-story brick building with two mosaics on this side of it.\"><img src=\"uploads/2024/26884e25e4.png\" alt=\"a mosaic of a cave painting\"><img src=\"uploads/2024/9bb463e965.png\" alt=\"a mosaic of egyptian hieroglyphics\"><img src=\"uploads/2024/1fca6066cc.png\" alt=\"a mosaic of a medieval scribe\"><img src=\"uploads/2024/b26e429341.png\" alt=\"a mosaic of a Gutenberg press\"><img src=\"uploads/2024/354cc8b386.png\" alt=\"a mosaic of how a newspaper was made in 1970\">\n",
+				"content_text": "Went by the Daily Leader newspaper building in tiny Pontiac, Illinois this weekend and was blown away by the history of print mosaic that wrapped the building, starting with cave paintings and ending with a sweet 1970s newspaper tableau. \r\n<img src=\"https://dansinker.micro.blog/uploads/2024/ecde219819.png\" alt=\"the Daily Leader building in Pontiac illinois, a one-story brick building with two mosaics on this side of it.\"><img src=\"https://dansinker.micro.blog/uploads/2024/26884e25e4.png\" alt=\"a mosaic of a cave painting\"><img src=\"https://dansinker.micro.blog/uploads/2024/9bb463e965.png\" alt=\"a mosaic of egyptian hieroglyphics\"><img src=\"https://dansinker.micro.blog/uploads/2024/1fca6066cc.png\" alt=\"a mosaic of a medieval scribe\"><img src=\"https://dansinker.micro.blog/uploads/2024/b26e429341.png\" alt=\"a mosaic of a Gutenberg press\"><img src=\"https://dansinker.micro.blog/uploads/2024/354cc8b386.png\" alt=\"a mosaic of how a newspaper was made in 1970\">\n",
 				"date_published": "2024-11-17T22:41:03-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/17/went-by-the.html"
 			},
@@ -4090,7 +4106,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/16/currently-settling-catan.html",
 				
 				"content_html": "<p>Currently settling Catan</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently settling Catan\n\n<img src=\"uploads/2024/e3dd044551.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Currently settling Catan\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/e3dd044551.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-16T13:10:21-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/16/currently-settling-catan.html"
 			},
@@ -4146,7 +4162,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/13/times-like-this.html",
 				
 				"content_html": "<p>Times like this I look at my Trying patch a lot. You might need one too. $8, ships free in the US.</p>\n<p><a href=\"https://shop.dansinker.com/products/trying-patch\">shop.dansinker.com/products/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Times like this I look at my Trying patch a lot. You might need one too. $8, ships free in the US.  \n\n[shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch)\n\n<img src=\"uploads/2024/8b85f5e41c.png\" width=\"600\" height=\"405\" alt=\"\">\n",
+				"content_text": "Times like this I look at my Trying patch a lot. You might need one too. $8, ships free in the US.  \n\n[shop.dansinker.com/products/...](https://shop.dansinker.com/products/trying-patch)\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/8b85f5e41c.png\" width=\"600\" height=\"405\" alt=\"\">\n",
 				"date_published": "2024-11-13T21:24:40-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/13/times-like-this.html"
 			},
@@ -4234,7 +4250,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/09/this-airheads-in.html",
 				
 				"content_html": "<p>This Airheads in my kid&rsquo;s Lunchable just got a gig as a NYT columnist.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This Airheads in my kid's Lunchable just got a gig as a NYT columnist.\n\n<img src=\"uploads/2024/497361d62a.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "This Airheads in my kid's Lunchable just got a gig as a NYT columnist.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/497361d62a.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-09T12:05:52-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/09/this-airheads-in.html"
 			},
@@ -4274,7 +4290,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/07/reading-old-newspapers.html",
 				
 				"content_html": "<p>Reading old newspapers, trying to find the hook for a possible new project and came across this gem. \n<!-- raw HTML omitted --></p>\n",
-				"content_text": "Reading old newspapers, trying to find the hook for a possible new project and came across this gem. \r\n<img src=\"uploads/2024/2ca93b2d35.png\" alt=\"\">\n",
+				"content_text": "Reading old newspapers, trying to find the hook for a possible new project and came across this gem. \r\n<img src=\"https://dansinker.micro.blog/uploads/2024/2ca93b2d35.png\" alt=\"\">\n",
 				"date_published": "2024-11-07T19:12:45-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/07/reading-old-newspapers.html"
 			},
@@ -4290,7 +4306,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/07/taylors-analysis-of.html",
 				
 				"content_html": "<p>Taylor&rsquo;s analysis of how the right has built such a powerful, well-funded, multifaceted media ecosystem and how replicating that on the left is structurally impossible (or close to it) is very good. <a href=\"https://www.usermag.co/p/why-democrats-wont-build-their-own\">www.usermag.co/p/why-dem&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Taylor's analysis of how the right has built such a powerful, well-funded, multifaceted media ecosystem and how replicating that on the left is structurally impossible (or close to it) is very good. [www.usermag.co/p/why-dem...](https://www.usermag.co/p/why-democrats-wont-build-their-own)\n\n\n<img src=\"uploads/2024/a7f0337617.png\" width=\"600\" height=\"217\" alt=\"\">\n",
+				"content_text": "Taylor's analysis of how the right has built such a powerful, well-funded, multifaceted media ecosystem and how replicating that on the left is structurally impossible (or close to it) is very good. [www.usermag.co/p/why-dem...](https://www.usermag.co/p/why-democrats-wont-build-their-own)\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/a7f0337617.png\" width=\"600\" height=\"217\" alt=\"\">\n",
 				"date_published": "2024-11-07T11:30:14-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/07/taylors-analysis-of.html"
 			},
@@ -4370,7 +4386,7 @@
 				"id": "http://dansinker.micro.blog/2024/11/02/when-youre-absolutely.html",
 				
 				"content_html": "<p>When you&rsquo;re absolutely, positively confident on your chances in <em>checks notes</em> North Carolina.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When you're absolutely, positively confident on your chances in *checks notes* North Carolina.\n\n<img src=\"uploads/2024/a328b77a4c.png\" width=\"600\" height=\"210\" alt=\"\">\n",
+				"content_text": "When you're absolutely, positively confident on your chances in *checks notes* North Carolina.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/a328b77a4c.png\" width=\"600\" height=\"210\" alt=\"\">\n",
 				"date_published": "2024-11-02T15:38:08-05:00",
 				"url": "https://dansinker.micro.blog/2024/11/02/when-youre-absolutely.html"
 			},
@@ -4498,7 +4514,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/29/while-the-old.html",
 				
 				"content_html": "<p>While the old media giants abdicate their duty in deference to power, it&rsquo;s nice to see new ones step up. The Verge&rsquo;s Harris endorsement (really, a Trump renouncement) is very very good: <a href=\"https://www.theverge.com/24282022/kamala-harris-endorsement-presidential-election-2024\">www.theverge.com/24282022/&hellip;</a>\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "While the old media giants abdicate their duty in deference to power, it's nice to see new ones step up. The Verge's Harris endorsement (really, a Trump renouncement) is very very good: [www.theverge.com/24282022/...](https://www.theverge.com/24282022/kamala-harris-endorsement-presidential-election-2024)\r\n<img src=\"uploads/2024/3882eb880b.png\" alt=\"\">\n",
+				"content_text": "While the old media giants abdicate their duty in deference to power, it's nice to see new ones step up. The Verge's Harris endorsement (really, a Trump renouncement) is very very good: [www.theverge.com/24282022/...](https://www.theverge.com/24282022/kamala-harris-endorsement-presidential-election-2024)\r\n<img src=\"https://dansinker.micro.blog/uploads/2024/3882eb880b.png\" alt=\"\">\n",
 				"date_published": "2024-10-29T08:26:41-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/29/while-the-old.html"
 			},
@@ -4506,7 +4522,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/29/over-at-says.html",
 				
 				"content_html": "<p>Over at Says Who, we&rsquo;ve been selling &ldquo;Kick Bezos in the Balls&rdquo; merch for a while, if you&rsquo;re so inspired. <a href=\"https://merch.sayswhopodcast.com/collections/bezos\">merch.sayswhopodcast.com/collectio&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Over at Says Who, we've been selling \"Kick Bezos in the Balls\" merch for a while, if you're so inspired. [merch.sayswhopodcast.com/collectio...](https://merch.sayswhopodcast.com/collections/bezos) \n\n<img src=\"uploads/2024/09f3ca5b41.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Over at Says Who, we've been selling \"Kick Bezos in the Balls\" merch for a while, if you're so inspired. [merch.sayswhopodcast.com/collectio...](https://merch.sayswhopodcast.com/collections/bezos) \n\n<img src=\"https://dansinker.micro.blog/uploads/2024/09f3ca5b41.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-29T07:45:57-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/29/over-at-says.html"
 			},
@@ -4610,7 +4626,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/25/dear-editors-getting.html",
 				
 				"content_html": "<p>Dear editors getting their op-eds banned. Just do this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dear editors getting their op-eds banned. Just do this.\r\n\r\n<img src=\"uploads/2024/27ed0b6b73.png\" alt=\"\">\n",
+				"content_text": "Dear editors getting their op-eds banned. Just do this.\r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2024/27ed0b6b73.png\" alt=\"\">\n",
 				"date_published": "2024-10-25T15:09:37-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/25/dear-editors-getting.html"
 			},
@@ -4650,7 +4666,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/24/how-about-we.html",
 				
 				"content_html": "<p>How about we don&rsquo;t?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "How about we don't?\n\n\n<img src=\"uploads/2024/937aa91e52.png\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "How about we don't?\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/937aa91e52.png\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2024-10-24T21:15:17-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/24/how-about-we.html"
 			},
@@ -4674,7 +4690,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/24/just-over-here.html",
 				
 				"content_html": "<p>Just over here producing a podcast that&rsquo;s become a local election issue. Let&rsquo;s fucking go. <a href=\"https://www.cincinnati.com/story/news/politics/elections/2024/10/23/culture-war-issues-at-center-of-school-board-race-in-boone-county/75381232007/\">www.cincinnati.com/story/new&hellip;</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Just over here producing a podcast that's become a local election issue. Let's fucking go. [www.cincinnati.com/story/new...](https://www.cincinnati.com/story/news/politics/elections/2024/10/23/culture-war-issues-at-center-of-school-board-race-in-boone-county/75381232007/)\n\n\n\n<img src=\"uploads/2024/9e4f06752c.jpg\" width=\"600\" height=\"379\" alt=\"\"><img src=\"uploads/2024/bf319a48c3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/6d9050c8d5.jpg\" width=\"600\" height=\"389\" alt=\"\">\n",
+				"content_text": "Just over here producing a podcast that's become a local election issue. Let's fucking go. [www.cincinnati.com/story/new...](https://www.cincinnati.com/story/news/politics/elections/2024/10/23/culture-war-issues-at-center-of-school-board-race-in-boone-county/75381232007/)\n\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/9e4f06752c.jpg\" width=\"600\" height=\"379\" alt=\"\"><img src=\"https://dansinker.micro.blog/uploads/2024/bf319a48c3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://dansinker.micro.blog/uploads/2024/6d9050c8d5.jpg\" width=\"600\" height=\"389\" alt=\"\">\n",
 				"date_published": "2024-10-24T08:28:56-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/24/just-over-here.html"
 			},
@@ -4682,7 +4698,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/23/well-that-should.html",
 				
 				"content_html": "<p>Well <em>that</em> should do it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well *that* should do it. \r\n\r\n<img src=\"uploads/2024/1d32d1bc96.png\" alt=\"\">\n",
+				"content_text": "Well *that* should do it. \r\n\r\n<img src=\"https://dansinker.micro.blog/uploads/2024/1d32d1bc96.png\" alt=\"\">\n",
 				"date_published": "2024-10-23T21:45:20-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/23/well-that-should.html"
 			},
@@ -4714,7 +4730,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/22/rudy-getting-everything.html",
 				
 				"content_html": "<p>Rudy getting <em>everything</em> repo&rsquo;d. <a href=\"https://www.washingtonpost.com/politics/2024/10/22/rudy-giuliani-condo-georgia-defamation/\">www.washingtonpost.com/politics/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rudy getting *everything* repo'd. [www.washingtonpost.com/politics/...](https://www.washingtonpost.com/politics/2024/10/22/rudy-giuliani-condo-georgia-defamation/)\n\n<img src=\"uploads/2024/d645e22292.png\" width=\"600\" height=\"407\" alt=\"\">\n",
+				"content_text": "Rudy getting *everything* repo'd. [www.washingtonpost.com/politics/...](https://www.washingtonpost.com/politics/2024/10/22/rudy-giuliani-condo-georgia-defamation/)\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/d645e22292.png\" width=\"600\" height=\"407\" alt=\"\">\n",
 				"date_published": "2024-10-22T21:37:22-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/22/rudy-getting-everything.html"
 			},
@@ -4746,7 +4762,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/22/this-strategy-was.html",
 				
 				"content_html": "<p>This strategy was much more effective when they cast him as weird instead of dangerous.</p>\n<p>&ldquo;Weird&rdquo; is a bummer for him and his supporters and those on the fence. &ldquo;Dangerous&rdquo; they think &ldquo;yes, they are afraid of <em>us</em>&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This strategy was much more effective when they cast him as weird instead of dangerous.\n\n\"Weird\" is a bummer for him and his supporters and those on the fence. \"Dangerous\" they think \"yes, they are afraid of *us*\" \n\n\n\n\n<img src=\"uploads/2024/a1790bcc0f.png\" width=\"600\" height=\"277\" alt=\"\">\n",
+				"content_text": "This strategy was much more effective when they cast him as weird instead of dangerous.\n\n\"Weird\" is a bummer for him and his supporters and those on the fence. \"Dangerous\" they think \"yes, they are afraid of *us*\" \n\n\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/a1790bcc0f.png\" width=\"600\" height=\"277\" alt=\"\">\n",
 				"date_published": "2024-10-22T10:32:36-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/22/this-strategy-was.html"
 			},
@@ -4794,7 +4810,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/20/this-is-way.html",
 				
 				"content_html": "<p>This is way way WAY too close to a Says Who Podcast bit for my liking.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is way way WAY too close to a Says Who Podcast bit for my liking. \n\n<img src=\"uploads/2024/a9f7b25776.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_text": "This is way way WAY too close to a Says Who Podcast bit for my liking. \n\n<img src=\"https://dansinker.micro.blog/uploads/2024/a9f7b25776.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
 				"date_published": "2024-10-20T14:37:01-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/20/this-is-way.html"
 			},
@@ -4834,7 +4850,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/19/071232.html",
 				
 				"content_html": "<p>Trump transition team head Linda McMahon is the first transition co-chair in history to sell a stunner from Stone Cold Steve Austin.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Trump transition team head Linda McMahon is the first transition co-chair in history to sell a stunner from Stone Cold Steve Austin. \n\n<img src=\"uploads/2024/9ce76b6bb7.png\" width=\"600\" height=\"168\" alt=\"\"><img src=\"uploads/2024/882f103a5d.png\" width=\"600\" height=\"575\" alt=\"\">\n",
+				"content_text": "Trump transition team head Linda McMahon is the first transition co-chair in history to sell a stunner from Stone Cold Steve Austin. \n\n<img src=\"https://dansinker.micro.blog/uploads/2024/9ce76b6bb7.png\" width=\"600\" height=\"168\" alt=\"\"><img src=\"https://dansinker.micro.blog/uploads/2024/882f103a5d.png\" width=\"600\" height=\"575\" alt=\"\">\n",
 				"date_published": "2024-10-19T07:12:32-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/19/071232.html"
 			},
@@ -4842,7 +4858,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/18/double-vaxxed-on.html",
 				
 				"content_html": "<p>Double vaxxed on a Friday night.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Double vaxxed on a Friday night.\n\n\n<img src=\"uploads/2024/00ceff35ae.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Double vaxxed on a Friday night.\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/00ceff35ae.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-18T18:29:22-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/18/double-vaxxed-on.html"
 			},
@@ -4898,7 +4914,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/17/i-hate-that.html",
 				
 				"content_html": "<p>I hate that I can see this headline and immediately go &ldquo;Oh, Wyoming? That&rsquo;s where the $400 Trump shoe shell company is headquartered too.&rdquo; <a href=\"https://amp.cnn.com/cnn/2024/10/17/politics/trump-watches-wyoming-invs\">amp.cnn.com/cnn/2024/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I hate that I can see this headline and immediately go \"Oh, Wyoming? That's where the $400 Trump shoe shell company is headquartered too.\" [amp.cnn.com/cnn/2024/...](https://amp.cnn.com/cnn/2024/10/17/politics/trump-watches-wyoming-invs)\n\n\n<img src=\"uploads/2024/7915759157.png\" width=\"600\" height=\"381\" alt=\"\">\n",
+				"content_text": "I hate that I can see this headline and immediately go \"Oh, Wyoming? That's where the $400 Trump shoe shell company is headquartered too.\" [amp.cnn.com/cnn/2024/...](https://amp.cnn.com/cnn/2024/10/17/politics/trump-watches-wyoming-invs)\n\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/7915759157.png\" width=\"600\" height=\"381\" alt=\"\">\n",
 				"date_published": "2024-10-17T08:17:45-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/17/i-hate-that.html"
 			},
@@ -4906,7 +4922,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/16/this-just-slid.html",
 				
 				"content_html": "<p>this just slid into Google Docs and it changes everything. <!-- raw HTML omitted --></p>\n",
-				"content_text": "this just slid into Google Docs and it changes everything. <img src=\"uploads/2024/fc4368af17.png\" alt=\"\">\n",
+				"content_text": "this just slid into Google Docs and it changes everything. <img src=\"https://dansinker.micro.blog/uploads/2024/fc4368af17.png\" alt=\"\">\n",
 				"date_published": "2024-10-16T17:41:17-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/16/this-just-slid.html"
 			},
@@ -4922,7 +4938,7 @@
 				"id": "http://dansinker.micro.blog/2024/10/16/the-sun-was.html",
 				
 				"content_html": "<p>The sun was projecting a nature scene on my bathroom wall this morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The sun was projecting a nature scene on my bathroom wall this morning.\n\n<img src=\"uploads/2024/image.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "The sun was projecting a nature scene on my bathroom wall this morning.\n\n<img src=\"https://dansinker.micro.blog/uploads/2024/image.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-16T13:51:05-05:00",
 				"url": "https://dansinker.micro.blog/2024/10/16/the-sun-was.html"
 			},
