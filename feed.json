@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2025/10/17/hey-its-friday-afternoon-how.html",
+				
+				"content_html": "<p>Hey it&rsquo;s Friday afternoon, how about signing up to get my writing sent to your inbox. It&rsquo;s free, it&rsquo;s good, and I&rsquo;d love if you did. <a href=\"https://dansinker.com/follow/\">dansinker.com/follow/</a></p>\n",
+				"content_text": "Hey it's Friday afternoon, how about signing up to get my writing sent to your inbox. It's free, it's good, and I'd love if you did. [dansinker.com/follow/](https://dansinker.com/follow/)\n",
+				"date_published": "2025-10-17T17:30:28-05:00",
+				"url": "https://dansinker.micro.blog/2025/10/17/hey-its-friday-afternoon-how.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2025/10/16/i-am-never-ever-fucking.html",
+				
+				"content_html": "<p>I am never ever fucking EVER getting over these fuckers just driving around snatching our neighbors off the street.</p>\n",
+				"content_text": "I am never ever fucking EVER getting over these fuckers just driving around snatching our neighbors off the street. \n",
+				"date_published": "2025-10-16T20:54:47-05:00",
+				"url": "https://dansinker.micro.blog/2025/10/16/i-am-never-ever-fucking.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2025/10/16/i-wrote-a-little-bit.html",
 				
 				"content_html": "<p>I wrote a little bit about the 400th episode of Says Who podcast, a show that was supposed to last 8 episodes, and the power of making things with your friends. <a href=\"https://dansinker.com/posts/2025-10-16-says-who-400/\">dansinker.com/posts/202&hellip;</a></p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://dansinker.micro.blog/2025/10/11/full-ice-whistle-assembly-line.html",
 				
-				"content_html": "<p>Full ICE whistle assembly line over here.</p>\n<img src=\"uploads/2025/cbaf1ca044.jpg\" width=\"337\" height=\"600\" alt=\"Assembling ICE whistle packs on a red table\">\n",
-				"content_text": "Full ICE whistle assembly line over here.\n\n<img src=\"uploads/2025/cbaf1ca044.jpg\" width=\"337\" height=\"600\" alt=\"Assembling ICE whistle packs on a red table\">\n",
+				"content_html": "<p>Full ICE whistle assembly line over here.</p>\n<img src=\"https://dansinker.micro.blog/uploads/2025/cbaf1ca044.jpg\" width=\"337\" height=\"600\" alt=\"Assembling ICE whistle packs on a red table\">\n",
+				"content_text": "Full ICE whistle assembly line over here.\n\n<img src=\"https://dansinker.micro.blog/uploads/2025/cbaf1ca044.jpg\" width=\"337\" height=\"600\" alt=\"Assembling ICE whistle packs on a red table\">\n",
 				"date_published": "2025-10-11T19:12:03-05:00",
 				"url": "https://dansinker.micro.blog/2025/10/11/full-ice-whistle-assembly-line.html"
 			},
