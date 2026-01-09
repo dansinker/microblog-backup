@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/01/09/me-every-time-the-moon.html",
+				
+				"content_html": "<p>Me every time the moon is full. <!-- raw HTML omitted --></p>\n",
+				"content_text": "Me every time the moon is full. <img src=\"uploads/2026/83dd4d85a1.png\" alt=\"a cartoon from 1928 depicting a detective standing next to a telescope saying 'take a look at the moon folks and get the thrill of yer life'\">\n",
+				"date_published": "2026-01-09T11:30:31-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/09/me-every-time-the-moon.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/01/07/anyone-who-was-out-in.html",
+				
+				"content_html": "<p>Anyone who was out in Chicago during the two months of occupation knows full well that it could have gone this way for any of us. Still could. And we&rsquo;ll still go out.</p>\n",
+				"content_text": "Anyone who was out in Chicago during the two months of occupation knows full well that it could have gone this way for any of us. Still could. And we'll still go out.\n",
+				"date_published": "2026-01-07T23:22:21-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/07/anyone-who-was-out-in.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/01/07/there-are-more-of-us.html",
+				
+				"content_html": "<p>There are more of us than there will ever be of them.</p>\n",
+				"content_text": "There are more of us than there will ever be of them.\n",
+				"date_published": "2026-01-07T20:29:26-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/07/there-are-more-of-us.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/01/07/minneapolis-is-one-of-my.html",
 				
 				"content_html": "<p>Minneapolis is one of my favorite cities in the whole world. So many people that I love dearly up there. Be safe, be vigilant, do not stop.</p>\n",
@@ -26,7 +50,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/06/dont-miss-out-on-the.html",
 				
 				"content_html": "<p>don&rsquo;t miss out on the clock sensation of the year y&rsquo;all. <!-- raw HTML omitted --></p>\n",
-				"content_text": "don't miss out on the clock sensation of the year y'all. <img src=\"uploads/2026/fac2488fb2.png\" alt=\"a vintage advertisement from 1927 advertising the clock sensation of the year, with free candlesticks\">\n",
+				"content_text": "don't miss out on the clock sensation of the year y'all. <img src=\"https://dansinker.micro.blog/uploads/2026/fac2488fb2.png\" alt=\"a vintage advertisement from 1927 advertising the clock sensation of the year, with free candlesticks\">\n",
 				"date_published": "2026-01-06T09:53:02-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/06/dont-miss-out-on-the.html"
 			},
@@ -266,7 +290,7 @@
 				"id": "http://dansinker.micro.blog/2025/12/01/big-day-for-cantaloupe-eaters.html",
 				
 				"content_html": "<p>Big day for cantaloupe eaters in 1926. <!-- raw HTML omitted --></p>\n",
-				"content_text": "Big day for cantaloupe eaters in 1926. <img src=\"uploads/2025/9175e8dd30.png\" alt=\"an old newspaper clipping with the headline Cantaloupe Eaters Hail New Preserving process\">\n",
+				"content_text": "Big day for cantaloupe eaters in 1926. <img src=\"https://dansinker.micro.blog/uploads/2025/9175e8dd30.png\" alt=\"an old newspaper clipping with the headline Cantaloupe Eaters Hail New Preserving process\">\n",
 				"date_published": "2025-12-01T15:01:03-05:00",
 				"url": "https://dansinker.micro.blog/2025/12/01/big-day-for-cantaloupe-eaters.html"
 			},
