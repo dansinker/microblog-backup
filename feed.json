@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/01/11/this-is-so-cool-a.html",
+				
+				"content_html": "<p>this is so cool: a &ldquo;radio score card&rdquo; for listeners to keep track of the nominations at the 1928 republican national convention. <!-- raw HTML omitted --></p>\n",
+				"content_text": "this is so cool: a \"radio score card\" for listeners to keep track of the nominations at the 1928 republican national convention. <img src=\"uploads/2026/051cffd792.png\" alt=\"\">\n",
+				"date_published": "2026-01-11T15:17:09-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/11/this-is-so-cool-a.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/01/09/me-every-time-the-moon.html",
 				
 				"content_html": "<p>Me every time the moon is full. <!-- raw HTML omitted --></p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/06/i-have-a-great-number.html",
 				
 				"content_html": "<p>I have a great number of questions. <!-- raw HTML omitted --></p>\n",
-				"content_text": "I have a great number of questions. <img src=\"uploads/2026/6228902721.png\" alt=\"a vintage newspaper advertisement from 1927 reading 'Found--A live baby boy in our hallway. For the love of Mike, will the person who left him there please call and claim him as we are three bachelors who know nothing about bringing up children. For further information apply at 2018 North Main Street, Mishawaka\">\n",
+				"content_text": "I have a great number of questions. <img src=\"https://dansinker.micro.blog/uploads/2026/6228902721.png\" alt=\"a vintage newspaper advertisement from 1927 reading 'Found--A live baby boy in our hallway. For the love of Mike, will the person who left him there please call and claim him as we are three bachelors who know nothing about bringing up children. For further information apply at 2018 North Main Street, Mishawaka\">\n",
 				"date_published": "2026-01-06T10:01:13-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/06/i-have-a-great-number.html"
 			},
