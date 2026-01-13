@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/01/13/inflation-hits-my-grocery-stores.html",
+				
+				"content_html": "<p>Inflation hits my grocery store&rsquo;s party sub biz.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inflation hits my grocery store's party sub biz.\n\n<img src=\"uploads/2026/966e742bf5.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-13T13:48:17-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/13/inflation-hits-my-grocery-stores.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/01/11/this-is-so-cool-a.html",
 				
 				"content_html": "<p>this is so cool: a &ldquo;radio score card&rdquo; for listeners to keep track of the nominations at the 1928 republican national convention. <!-- raw HTML omitted --></p>\n",
@@ -298,7 +306,7 @@
 				"id": "http://dansinker.micro.blog/2025/12/01/big-day-for-cantaloupe-eaters.html",
 				
 				"content_html": "<p>Big day for cantaloupe eaters in 1926. <!-- raw HTML omitted --></p>\n",
-				"content_text": "Big day for cantaloupe eaters in 1926. <img src=\"https://dansinker.micro.blog/uploads/2025/9175e8dd30.png\" alt=\"an old newspaper clipping with the headline Cantaloupe Eaters Hail New Preserving process\">\n",
+				"content_text": "Big day for cantaloupe eaters in 1926. <img src=\"uploads/2025/9175e8dd30.png\" alt=\"an old newspaper clipping with the headline Cantaloupe Eaters Hail New Preserving process\">\n",
 				"date_published": "2025-12-01T15:01:03-05:00",
 				"url": "https://dansinker.micro.blog/2025/12/01/big-day-for-cantaloupe-eaters.html"
 			},
