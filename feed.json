@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/01/17/a-saturday-morning-spent-printing.html",
+				
+				"content_html": "<p>A Saturday morning spent printing whistles and signing/numbering zines is a pretty good Saturday morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A Saturday morning spent printing whistles and signing/numbering zines is a pretty good Saturday morning. \n\n<img src=\"uploads/2026/1d58540db4.jpg\" width=\"337\" height=\"600\" alt=\"A 3D printer sits on a table with stacks of zines titled &quot;They Can't Take Us All&quot; next to it.\">\n",
+				"date_published": "2026-01-17T09:01:50-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/17/a-saturday-morning-spent-printing.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/01/16/good-mail-day.html",
+				
+				"content_html": "<p>Good mail day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Good mail day. \n\n<img src=\"uploads/2026/11f3d7271d.jpg\" width=\"337\" height=\"600\" alt=\"Several copies of a book titled Dispatches from 2025 by Dan Sinker are packed inside a cardboard box.\">\n",
+				"date_published": "2026-01-16T17:58:54-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/16/good-mail-day.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/01/16/i-live-in-chicago-and.html",
+				
+				"content_html": "<p>I live in Chicago and it&rsquo;s January and yet every time it snows I am like HOW DARE YOU</p>\n",
+				"content_text": "I live in Chicago and it's January and yet every time it snows I am like HOW DARE YOU \n",
+				"date_published": "2026-01-16T09:07:29-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/16/i-live-in-chicago-and.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/01/15/coming-soon.html",
 				
 				"content_html": "<p>Coming soon.</p>\n<!-- raw HTML omitted -->\n",
@@ -26,7 +50,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/11/this-is-so-cool-a.html",
 				
 				"content_html": "<p>this is so cool: a &ldquo;radio score card&rdquo; for listeners to keep track of the nominations at the 1928 republican national convention. <!-- raw HTML omitted --></p>\n",
-				"content_text": "this is so cool: a \"radio score card\" for listeners to keep track of the nominations at the 1928 republican national convention. <img src=\"uploads/2026/051cffd792.png\" alt=\"\">\n",
+				"content_text": "this is so cool: a \"radio score card\" for listeners to keep track of the nominations at the 1928 republican national convention. <img src=\"https://dansinker.micro.blog/uploads/2026/051cffd792.png\" alt=\"\">\n",
 				"date_published": "2026-01-11T15:17:09-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/11/this-is-so-cool-a.html"
 			},
