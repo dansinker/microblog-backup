@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/01/20/got-to-go-in-the.html",
+				
+				"content_html": "<p>Got to go in the backroom of the post office to drop eight tubs of zines, so today was a good day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got to go in the backroom of the post office to drop eight tubs of zines, so today was a good day.\n\n<img src=\"uploads/2026/13158315d7.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-01-20T10:52:09-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/20/got-to-go-in-the.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/01/18/spent-basically-the-entire-weekend.html",
 				
 				"content_html": "<p>Spent basically the entire weekend signing, numbering and packing a remarkable number of zines. Ended up with EIGHT mail tubs full. Kinda blown away and definitely very tired.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/15/coming-soon.html",
 				
 				"content_html": "<p>Coming soon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Coming soon. \n\n<img src=\"uploads/2026/31e9bd7787.jpg\" width=\"337\" height=\"600\" alt=\"A box contains multiple olive green knit hats with an orange patch labeled TRYING.\">\n",
+				"content_text": "Coming soon. \n\n<img src=\"https://dansinker.micro.blog/uploads/2026/31e9bd7787.jpg\" width=\"337\" height=\"600\" alt=\"A box contains multiple olive green knit hats with an orange patch labeled TRYING.\">\n",
 				"date_published": "2026-01-15T19:13:32-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/15/coming-soon.html"
 			},
@@ -66,7 +74,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/09/me-every-time-the-moon.html",
 				
 				"content_html": "<p>Me every time the moon is full. <!-- raw HTML omitted --></p>\n",
-				"content_text": "Me every time the moon is full. <img src=\"uploads/2026/83dd4d85a1.png\" alt=\"a cartoon from 1928 depicting a detective standing next to a telescope saying 'take a look at the moon folks and get the thrill of yer life'\">\n",
+				"content_text": "Me every time the moon is full. <img src=\"https://dansinker.micro.blog/uploads/2026/83dd4d85a1.png\" alt=\"a cartoon from 1928 depicting a detective standing next to a telescope saying 'take a look at the moon folks and get the thrill of yer life'\">\n",
 				"date_published": "2026-01-09T11:30:31-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/09/me-every-time-the-moon.html"
 			},
@@ -346,7 +354,7 @@
 				"id": "http://dansinker.micro.blog/2025/12/01/big-day-for-cantaloupe-eaters.html",
 				
 				"content_html": "<p>Big day for cantaloupe eaters in 1926. <!-- raw HTML omitted --></p>\n",
-				"content_text": "Big day for cantaloupe eaters in 1926. <img src=\"uploads/2025/9175e8dd30.png\" alt=\"an old newspaper clipping with the headline Cantaloupe Eaters Hail New Preserving process\">\n",
+				"content_text": "Big day for cantaloupe eaters in 1926. <img src=\"https://dansinker.micro.blog/uploads/2025/9175e8dd30.png\" alt=\"an old newspaper clipping with the headline Cantaloupe Eaters Hail New Preserving process\">\n",
 				"date_published": "2025-12-01T15:01:03-05:00",
 				"url": "https://dansinker.micro.blog/2025/12/01/big-day-for-cantaloupe-eaters.html"
 			},
