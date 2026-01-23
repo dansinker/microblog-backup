@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html",
+				
+				"content_html": "<p>Absolutely fucking not.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Absolutely fucking not.\n\n<img src=\"uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
+				"date_published": "2026-01-23T09:08:37-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/01/22/just-interviewed-for-a-documentary.html",
+				
+				"content_html": "<p>Just interviewed for a documentary about the Promise Ring, so I am going to go crumble into dust now.</p>\n",
+				"content_text": "Just interviewed for a documentary about the Promise Ring, so I am going to go crumble into dust now.\n",
+				"date_published": "2026-01-22T16:33:02-05:00",
+				"url": "https://dansinker.micro.blog/2026/01/22/just-interviewed-for-a-documentary.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/01/21/everyones-just-trying-to-live.html",
 				
 				"content_html": "<p>Everyone&rsquo;s just trying to live their lives the best they can. And these motherfuckers are just wilding out, marauding, terrorizing for no fucking reason beyond &ldquo;they can.&rdquo; This helps nobody. This benefits zero people. This is dropping entire communities into a nightmare for sport.</p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/17/a-saturday-morning-spent-printing.html",
 				
 				"content_html": "<p>A Saturday morning spent printing whistles and signing/numbering zines is a pretty good Saturday morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A Saturday morning spent printing whistles and signing/numbering zines is a pretty good Saturday morning. \n\n<img src=\"uploads/2026/1d58540db4.jpg\" width=\"337\" height=\"600\" alt=\"A 3D printer sits on a table with stacks of zines titled &quot;They Can't Take Us All&quot; next to it.\">\n",
+				"content_text": "A Saturday morning spent printing whistles and signing/numbering zines is a pretty good Saturday morning. \n\n<img src=\"https://dansinker.micro.blog/uploads/2026/1d58540db4.jpg\" width=\"337\" height=\"600\" alt=\"A 3D printer sits on a table with stacks of zines titled &quot;They Can't Take Us All&quot; next to it.\">\n",
 				"date_published": "2026-01-17T09:01:50-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/17/a-saturday-morning-spent-printing.html"
 			},
@@ -370,7 +386,7 @@
 				"id": "http://dansinker.micro.blog/2025/12/01/big-day-for-cantaloupe-eaters.html",
 				
 				"content_html": "<p>Big day for cantaloupe eaters in 1926. <!-- raw HTML omitted --></p>\n",
-				"content_text": "Big day for cantaloupe eaters in 1926. <img src=\"https://dansinker.micro.blog/uploads/2025/9175e8dd30.png\" alt=\"an old newspaper clipping with the headline Cantaloupe Eaters Hail New Preserving process\">\n",
+				"content_text": "Big day for cantaloupe eaters in 1926. <img src=\"uploads/2025/9175e8dd30.png\" alt=\"an old newspaper clipping with the headline Cantaloupe Eaters Hail New Preserving process\">\n",
 				"date_published": "2025-12-01T15:01:03-05:00",
 				"url": "https://dansinker.micro.blog/2025/12/01/big-day-for-cantaloupe-eaters.html"
 			},
