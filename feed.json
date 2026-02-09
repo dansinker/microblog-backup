@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/02/09/its-endlessly-funny-to-me.html",
+				
+				"content_html": "<p>It&rsquo;s endlessly funny to me that the <em>one</em> guy these folks have is Kid Rock. That&rsquo;s it. That&rsquo;s the whole bench.</p>\n",
+				"content_text": "It's endlessly funny to me that the *one* guy these folks have is Kid Rock. That's it. That's the whole bench.\n",
+				"date_published": "2026-02-09T15:03:44-05:00",
+				"url": "https://dansinker.micro.blog/2026/02/09/its-endlessly-funny-to-me.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/02/07/gonna-have-a-lot-more.html",
 				
 				"content_html": "<p>Gonna have a lot more to say about the incredible work of this crew of whistle goblins in a post tomorrow, but for me, personally, I just printed my 10,000th whistle.</p>\n",
@@ -50,7 +58,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html",
 				
 				"content_html": "<p>Absolutely fucking not.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Absolutely fucking not.\n\n<img src=\"uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
+				"content_text": "Absolutely fucking not.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
 				"date_published": "2026-01-23T09:08:37-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html"
 			},
