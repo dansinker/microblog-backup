@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/02/11/the-national-media-moved-on.html",
+				
+				"content_html": "<p>The national media moved on from Minnesota because they haven&rsquo;t killed another observer. People gotta die to get them out of New York.</p>\n",
+				"content_text": "The national media moved on from Minnesota because they haven't killed another observer. People gotta die to get them out of New York.\n",
+				"date_published": "2026-02-11T15:59:56-05:00",
+				"url": "https://dansinker.micro.blog/2026/02/11/the-national-media-moved-on.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/02/09/its-endlessly-funny-to-me.html",
 				
 				"content_html": "<p>It&rsquo;s endlessly funny to me that the <em>one</em> guy these folks have is Kid Rock. That&rsquo;s it. That&rsquo;s the whole bench.</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/23/whistles-heading-for-suburban-minneapolis.html",
 				
 				"content_html": "<p>300 whistles heading for suburban Minneapolis in the morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "300 whistles heading for suburban Minneapolis in the morning.\n\n<img src=\"uploads/2026/adb1d2bf69.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "300 whistles heading for suburban Minneapolis in the morning.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/adb1d2bf69.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-23T22:49:37-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/23/whistles-heading-for-suburban-minneapolis.html"
 			},
@@ -58,7 +66,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html",
 				
 				"content_html": "<p>Absolutely fucking not.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Absolutely fucking not.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
+				"content_text": "Absolutely fucking not.\n\n<img src=\"uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
 				"date_published": "2026-01-23T09:08:37-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html"
 			},
