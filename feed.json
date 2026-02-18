@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/02/17/im-just-not-going-to.html",
+				
+				"content_html": "<p>I&rsquo;m just not going to take health advice from a guy who wears jeans to the gym, let alone all his other fucking problems.</p>\n",
+				"content_text": "I'm just not going to take health advice from a guy who wears jeans to the gym, let alone all his other fucking problems.\n",
+				"date_published": "2026-02-17T19:41:50-05:00",
+				"url": "https://dansinker.micro.blog/2026/02/17/im-just-not-going-to.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/02/17/happy-paczki-day.html",
+				
+				"content_html": "<p>HAPPY PACZKI DAY</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "HAPPY PACZKI DAY\n\n<img src=\"uploads/2026/08cc3039fe.jpg\" width=\"599\" height=\"600\" alt=\"Four Paczkis, polish donuts eaten on fat Tuesday.\">\n",
+				"date_published": "2026-02-17T08:04:20-05:00",
+				"url": "https://dansinker.micro.blog/2026/02/17/happy-paczki-day.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/02/16/got-some-new-thermal-labels.html",
 				
 				"content_html": "<p>Got some new thermal labels for the whistle operation.</p>\n<!-- raw HTML omitted -->\n",
@@ -74,7 +90,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/23/whistles-heading-for-suburban-minneapolis.html",
 				
 				"content_html": "<p>300 whistles heading for suburban Minneapolis in the morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "300 whistles heading for suburban Minneapolis in the morning.\n\n<img src=\"uploads/2026/adb1d2bf69.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "300 whistles heading for suburban Minneapolis in the morning.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/adb1d2bf69.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-23T22:49:37-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/23/whistles-heading-for-suburban-minneapolis.html"
 			},
@@ -90,7 +106,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html",
 				
 				"content_html": "<p>Absolutely fucking not.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Absolutely fucking not.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
+				"content_text": "Absolutely fucking not.\n\n<img src=\"uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
 				"date_published": "2026-01-23T09:08:37-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html"
 			},
