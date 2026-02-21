@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/02/20/triples-luge-you-cowards.html",
+				
+				"content_html": "<p>Triples luge, you cowards</p>\n",
+				"content_text": "Triples luge, you cowards\n",
+				"date_published": "2026-02-20T21:41:04-05:00",
+				"url": "https://dansinker.micro.blog/2026/02/20/triples-luge-you-cowards.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/02/20/just-had-to-scrap-a.html",
+				
+				"content_html": "<p>Just had to scrap a whole blog post highlighting a bunch of rad signpainters because Instagram doesn&rsquo;t allow inline playback of reels, instead the &ldquo;embed&rdquo; function is basically just a gigantic box with a link back to Instagram. We used to have a functional web and we gave it all away for nothing.</p>\n",
+				"content_text": "Just had to scrap a whole blog post highlighting a bunch of rad signpainters because Instagram doesn't allow inline playback of reels, instead the \"embed\" function is basically just a gigantic box with a link back to Instagram. We used to have a functional web and we gave it all away for nothing.\n",
+				"date_published": "2026-02-20T19:02:35-05:00",
+				"url": "https://dansinker.micro.blog/2026/02/20/just-had-to-scrap-a.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/02/19/the-kid-got-perhaps-the.html",
 				
 				"content_html": "<p>The kid got perhaps the greatest knockoff Lego set of all time.</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://dansinker.micro.blog/2026/02/16/got-some-new-thermal-labels.html",
 				
 				"content_html": "<p>Got some new thermal labels for the whistle operation.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got some new thermal labels for the whistle operation.\n\n<img src=\"uploads/2026/0c6187dc0b.jpg\" width=\"337\" height=\"600\" alt=\"A bag of colorful plastic whistles with a QR code pointing to toot.supply and a label warning of choking hazards.\">\n",
+				"content_text": "Got some new thermal labels for the whistle operation.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/0c6187dc0b.jpg\" width=\"337\" height=\"600\" alt=\"A bag of colorful plastic whistles with a QR code pointing to toot.supply and a label warning of choking hazards.\">\n",
 				"date_published": "2026-02-16T19:13:00-05:00",
 				"url": "https://dansinker.micro.blog/2026/02/16/got-some-new-thermal-labels.html"
 			},
