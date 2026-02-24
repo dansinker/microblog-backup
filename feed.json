@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/02/23/lol-apple-never-knocked-down.html",
+				
+				"content_html": "<p>Lol Apple never knocked down the price of the Vision Pro down????</p>\n",
+				"content_text": "Lol Apple never knocked down the price of the Vision Pro down???? \n",
+				"date_published": "2026-02-23T20:03:18-05:00",
+				"url": "https://dansinker.micro.blog/2026/02/23/lol-apple-never-knocked-down.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/02/20/triples-luge-you-cowards.html",
 				
 				"content_html": "<p>Triples luge, you cowards</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://dansinker.micro.blog/2026/02/17/happy-paczki-day.html",
 				
 				"content_html": "<p>HAPPY PACZKI DAY</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "HAPPY PACZKI DAY\n\n<img src=\"uploads/2026/08cc3039fe.jpg\" width=\"599\" height=\"600\" alt=\"Four Paczkis, polish donuts eaten on fat Tuesday.\">\n",
+				"content_text": "HAPPY PACZKI DAY\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/08cc3039fe.jpg\" width=\"599\" height=\"600\" alt=\"Four Paczkis, polish donuts eaten on fat Tuesday.\">\n",
 				"date_published": "2026-02-17T08:04:20-05:00",
 				"url": "https://dansinker.micro.blog/2026/02/17/happy-paczki-day.html"
 			},
