@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/02/26/teeth-are-the-stupidest-bone.html",
+				
+				"content_html": "<p>Teeth are the stupidest bone. Just give me a baleen and let me slurp krill or something.</p>\n",
+				"content_text": "Teeth are the stupidest bone. Just give me a baleen and let me slurp krill or something.\n",
+				"date_published": "2026-02-26T15:24:17-05:00",
+				"url": "https://dansinker.micro.blog/2026/02/26/teeth-are-the-stupidest-bone.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/02/23/lol-apple-never-knocked-down.html",
 				
 				"content_html": "<p>Lol Apple never knocked down the price of the Vision Pro down????</p>\n",
@@ -122,7 +130,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/23/whistles-heading-for-suburban-minneapolis.html",
 				
 				"content_html": "<p>300 whistles heading for suburban Minneapolis in the morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "300 whistles heading for suburban Minneapolis in the morning.\n\n<img src=\"uploads/2026/adb1d2bf69.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "300 whistles heading for suburban Minneapolis in the morning.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/adb1d2bf69.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-23T22:49:37-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/23/whistles-heading-for-suburban-minneapolis.html"
 			},
@@ -138,7 +146,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html",
 				
 				"content_html": "<p>Absolutely fucking not.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Absolutely fucking not.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
+				"content_text": "Absolutely fucking not.\n\n<img src=\"uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
 				"date_published": "2026-01-23T09:08:37-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html"
 			},
