@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/03/05/do-rfk-jr-next.html",
+				
+				"content_html": "<p>Do RFK jr next.</p>\n",
+				"content_text": "Do RFK jr next.\n",
+				"date_published": "2026-03-05T16:26:57-05:00",
+				"url": "https://dansinker.micro.blog/2026/03/05/do-rfk-jr-next.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/03/03/we-accidentally-killed-all-the.html",
+				
+				"content_html": "<p>&ldquo;We accidentally killed all the folks we&rsquo;d want to lead Iran&rdquo; is 100% the girlfriend-in-Canada for not actually having a succession plan.</p>\n",
+				"content_text": "\"We accidentally killed all the folks we'd want to lead Iran\" is 100% the girlfriend-in-Canada for not actually having a succession plan.\n",
+				"date_published": "2026-03-03T15:20:06-05:00",
+				"url": "https://dansinker.micro.blog/2026/03/03/we-accidentally-killed-all-the.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/03/03/years-ago-i-pitched-a.html",
+				
+				"content_html": "<p>Years ago I pitched a &ldquo;Tales-from-the-Crypt meets the Daily Show&rdquo; half hour news show hosted by a Cryptkeeper-type and honestly I would really really watch the fuck out of that right now.</p>\n",
+				"content_text": "Years ago I pitched a \"Tales-from-the-Crypt meets the Daily Show\" half hour news show hosted by a Cryptkeeper-type and honestly I would really really watch the fuck out of that right now.\n",
+				"date_published": "2026-03-03T14:25:37-05:00",
+				"url": "https://dansinker.micro.blog/2026/03/03/years-ago-i-pitched-a.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/03/02/my-best-portrait-of-all.html",
+				
+				"content_html": "<p>My best portrait of all time was taken in the elevator at the Ace Hotel in Los Angeles. <!-- raw HTML omitted --></p>\n",
+				"content_text": "My best portrait of all time was taken in the elevator at the Ace Hotel in Los Angeles. <img src=\"uploads/2026/53666ce7ad.png\" alt=\"\">\n",
+				"date_published": "2026-03-02T15:11:47-05:00",
+				"url": "https://dansinker.micro.blog/2026/03/02/my-best-portrait-of-all.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/03/02/you-probably-missed-it-this.html",
 				
 				"content_html": "<p>You probably missed it this weekend what with literally everything happening at once, but I wrote a piece about subculture, collective action, this fucked moment, and The Goonies.</p>\n<!-- raw HTML omitted -->\n",
@@ -58,7 +90,7 @@
 				"id": "http://dansinker.micro.blog/2026/02/19/the-kid-got-perhaps-the.html",
 				
 				"content_html": "<p>The kid got perhaps the greatest knockoff Lego set of all time.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The kid got perhaps the greatest knockoff Lego set of all time. \n\n<img src=\"uploads/2026/e3d77ba342.jpg\" width=\"599\" height=\"600\" alt=\"A Lego set of Garfield inside a slice of lasagna \">\n",
+				"content_text": "The kid got perhaps the greatest knockoff Lego set of all time. \n\n<img src=\"https://dansinker.micro.blog/uploads/2026/e3d77ba342.jpg\" width=\"599\" height=\"600\" alt=\"A Lego set of Garfield inside a slice of lasagna \">\n",
 				"date_published": "2026-02-19T19:55:23-05:00",
 				"url": "https://dansinker.micro.blog/2026/02/19/the-kid-got-perhaps-the.html"
 			},
