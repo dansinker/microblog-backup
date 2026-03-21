@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/03/20/never-in-a-million-years.html",
+				
+				"content_html": "<p>Never in a million years would I have expected Bikini Kill in a Disney movie</p>\n",
+				"content_text": "Never in a million years would I have expected Bikini Kill in a Disney movie\n",
+				"date_published": "2026-03-20T21:25:10-05:00",
+				"url": "https://dansinker.micro.blog/2026/03/20/never-in-a-million-years.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/03/19/what-an-honor-to-spend.html",
+				
+				"content_html": "<p>What an honor to spend $4.29 a gallon to fill my tank, god bless our troops 🫡</p>\n",
+				"content_text": "What an honor to spend $4.29 a gallon to fill my tank, god bless our troops 🫡\n",
+				"date_published": "2026-03-19T20:36:48-05:00",
+				"url": "https://dansinker.micro.blog/2026/03/19/what-an-honor-to-spend.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/03/19/not-gonna-brag-or-anything.html",
 				
 				"content_html": "<p>Not gonna brag or anything, but I just got to fill out two supplimental financial aid forms for my kids college and <em>now</em> get to go to the oral surgeon.</p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://dansinker.micro.blog/2026/03/09/they-still-have-kinkos-in.html",
 				
 				"content_html": "<p>THEY STILL HAVE KINKOS IN JAPAN????</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "THEY STILL HAVE KINKOS IN JAPAN????\n\n<img src=\"uploads/2026/bcd61cda3e.png\" width=\"316\" height=\"600\" alt=\"\">\n",
+				"content_text": "THEY STILL HAVE KINKOS IN JAPAN????\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/bcd61cda3e.png\" width=\"316\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-09T22:13:03-05:00",
 				"url": "https://dansinker.micro.blog/2026/03/09/they-still-have-kinkos-in.html"
 			},
