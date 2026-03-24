@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/03/23/i-got-the-shittiest-fortune.html",
+				
+				"content_html": "<p>I got the shittiest fortune cookie fortune ever.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I got the shittiest fortune cookie fortune ever.\n\n<img src=\"uploads/2026/926e2047b6.jpg\" width=\"599\" height=\"600\" alt=\"A fortune with the message SMILE LIKE YOU MEAN IT on it.\">\n",
+				"date_published": "2026-03-23T20:25:22-05:00",
+				"url": "https://dansinker.micro.blog/2026/03/23/i-got-the-shittiest-fortune.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/03/23/covid-was-the-first-time.html",
 				
 				"content_html": "<p>Covid was the first time he couldn&rsquo;t just bullshit his way out of something. We might be seeing the second.</p>\n",
@@ -106,7 +114,7 @@
 				"id": "http://dansinker.micro.blog/2026/03/06/finally-a-lego-set-for.html",
 				
 				"content_html": "<p>Finally a Lego set for shipping sickos.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally a Lego set for shipping sickos.\n\n<img src=\"uploads/2026/62548fb653.jpg\" width=\"600\" height=\"337\" alt=\"A LEGO set box features a model of the Maersk container ship&10;\">\n",
+				"content_text": "Finally a Lego set for shipping sickos.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/62548fb653.jpg\" width=\"600\" height=\"337\" alt=\"A LEGO set box features a model of the Maersk container ship&10;\">\n",
 				"date_published": "2026-03-06T19:13:19-05:00",
 				"url": "https://dansinker.micro.blog/2026/03/06/finally-a-lego-set-for.html"
 			},
@@ -146,7 +154,7 @@
 				"id": "http://dansinker.micro.blog/2026/03/02/you-probably-missed-it-this.html",
 				
 				"content_html": "<p>You probably missed it this weekend what with literally everything happening at once, but I wrote a piece about subculture, collective action, this fucked moment, and The Goonies.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "You probably missed it this weekend what with literally everything happening at once, but I wrote a piece about subculture, collective action, this fucked moment, and The Goonies.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/abed40dfb9.png\" alt=\"I was lonely and scared that summer and not sure where I fit, or how I fit, or if I fit, and here was a voice telling me that there was a place for me after all, but it wasn't above ground. It was down underneath it all, where the surface ends and your life begins.\">\n",
+				"content_text": "You probably missed it this weekend what with literally everything happening at once, but I wrote a piece about subculture, collective action, this fucked moment, and The Goonies.\n\n<img src=\"uploads/2026/abed40dfb9.png\" alt=\"I was lonely and scared that summer and not sure where I fit, or how I fit, or if I fit, and here was a voice telling me that there was a place for me after all, but it wasn't above ground. It was down underneath it all, where the surface ends and your life begins.\">\n",
 				"date_published": "2026-03-02T11:21:29-05:00",
 				"url": "https://dansinker.micro.blog/2026/03/02/you-probably-missed-it-this.html"
 			},
@@ -282,7 +290,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/23/whistles-heading-for-suburban-minneapolis.html",
 				
 				"content_html": "<p>300 whistles heading for suburban Minneapolis in the morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "300 whistles heading for suburban Minneapolis in the morning.\n\n<img src=\"uploads/2026/adb1d2bf69.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "300 whistles heading for suburban Minneapolis in the morning.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/adb1d2bf69.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-23T22:49:37-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/23/whistles-heading-for-suburban-minneapolis.html"
 			},
@@ -298,7 +306,7 @@
 				"id": "http://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html",
 				
 				"content_html": "<p>Absolutely fucking not.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Absolutely fucking not.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
+				"content_text": "Absolutely fucking not.\n\n<img src=\"uploads/2026/dd37c5f2ec.jpg\" width=\"337\" height=\"600\" alt=\"A thermometer reading -10\">\n",
 				"date_published": "2026-01-23T09:08:37-05:00",
 				"url": "https://dansinker.micro.blog/2026/01/23/absolutely-fucking-not.html"
 			},
