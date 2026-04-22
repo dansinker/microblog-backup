@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/04/22/just-wrote-a-text-when.html",
+				
+				"content_html": "<p>Just wrote a text: &ldquo;When you&rsquo;re ready do you want to take first crack at writing the end of the Civil War?&rdquo; Must be Rebel Spirit season&hellip;</p>\n",
+				"content_text": "Just wrote a text: \"When you're ready do you want to take first crack at writing the end of the Civil War?\" Must be Rebel Spirit season...\n",
+				"date_published": "2026-04-22T11:46:38-05:00",
+				"url": "https://dansinker.micro.blog/2026/04/22/just-wrote-a-text-when.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/04/19/the-thing-i-think-about.html",
 				
 				"content_html": "<p>The thing I think about whenever Palentir comes up is that I once played Werewolf sitting next to a guy that worked at Palentir and he spent the entire time trying to convince me that the company wasn&rsquo;t evil while simultaneously picking off every villager in the game.</p>\n",
@@ -58,7 +66,7 @@
 				"id": "http://dansinker.micro.blog/2026/03/23/i-got-the-shittiest-fortune.html",
 				
 				"content_html": "<p>I got the shittiest fortune cookie fortune ever.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I got the shittiest fortune cookie fortune ever.\n\n<img src=\"uploads/2026/926e2047b6.jpg\" width=\"599\" height=\"600\" alt=\"A fortune with the message SMILE LIKE YOU MEAN IT on it.\">\n",
+				"content_text": "I got the shittiest fortune cookie fortune ever.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/926e2047b6.jpg\" width=\"599\" height=\"600\" alt=\"A fortune with the message SMILE LIKE YOU MEAN IT on it.\">\n",
 				"date_published": "2026-03-23T20:25:22-05:00",
 				"url": "https://dansinker.micro.blog/2026/03/23/i-got-the-shittiest-fortune.html"
 			},
