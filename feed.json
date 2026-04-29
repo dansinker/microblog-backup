@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/04/29/ima-start-putting-eggs-in.html",
+				
+				"content_html": "<p>I&rsquo;ma start putting eggs in my gas tank.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'ma start putting eggs in my gas tank.\n\n<img src=\"uploads/2026/791e8969e5.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-04-29T16:52:55-05:00",
+				"url": "https://dansinker.micro.blog/2026/04/29/ima-start-putting-eggs-in.html"
+			},
+			{
+				"id": "http://dansinker.micro.blog/2026/04/25/its-independent-bookstore-day-today.html",
+				
+				"content_html": "<p>It&rsquo;s independent bookstore day today! Visit your faves!</p>\n<p>Last year I wrote about the indie bookstore that changed my life: <a href=\"https://dansinker.com/posts/2025-04-26-indie-books/\">dansinker.com/posts/202&hellip;</a></p>\n",
+				"content_text": "It's independent bookstore day today! Visit your faves! \n\nLast year I wrote about the indie bookstore that changed my life: [dansinker.com/posts/202...](https://dansinker.com/posts/2025-04-26-indie-books/)\n",
+				"date_published": "2026-04-25T07:07:52-05:00",
+				"url": "https://dansinker.micro.blog/2026/04/25/its-independent-bookstore-day-today.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/04/24/note-to-myself.html",
 				
 				"content_html": "<p>Note to myself. <!-- raw HTML omitted --></p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://dansinker.micro.blog/2026/04/17/one-side-obsession-from-my.html",
 				
 				"content_html": "<p>One side obsession from my research into the 1920s is the extensive network of ELECTRIC trains that used to connect cities and towns across the central Midwest called the Interurban. We had this more than a hundred years ago. The things we had and the things we lost. <!-- raw HTML omitted --></p>\n",
-				"content_text": "One side obsession from my research into the 1920s is the extensive network of ELECTRIC trains that used to connect cities and towns across the central Midwest called the Interurban. We had this more than a hundred years ago. The things we had and the things we lost. <img src=\"uploads/2026/42581f19e3.png\" alt=\"a map from 1918 showing the interurban network sprawling across Illinois, Indiana, Michigan, and Ohio\">\n",
+				"content_text": "One side obsession from my research into the 1920s is the extensive network of ELECTRIC trains that used to connect cities and towns across the central Midwest called the Interurban. We had this more than a hundred years ago. The things we had and the things we lost. <img src=\"https://dansinker.micro.blog/uploads/2026/42581f19e3.png\" alt=\"a map from 1918 showing the interurban network sprawling across Illinois, Indiana, Michigan, and Ohio\">\n",
 				"date_published": "2026-04-17T09:20:45-05:00",
 				"url": "https://dansinker.micro.blog/2026/04/17/one-side-obsession-from-my.html"
 			},
