@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/05/01/happy-may-day-from-chicago.html",
+				
+				"content_html": "<p>Happy May Day from Chicago. <!-- raw HTML omitted --></p>\n",
+				"content_text": "Happy May Day from Chicago. <img src=\"uploads/2026/545ed6be6e.png\" alt=\"an illustration of the May Day originally published in Harpers Weekly in 1886\">\n",
+				"date_published": "2026-05-01T08:14:01-05:00",
+				"url": "https://dansinker.micro.blog/2026/05/01/happy-may-day-from-chicago.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/04/29/ima-start-putting-eggs-in.html",
 				
 				"content_html": "<p>I&rsquo;ma start putting eggs in my gas tank.</p>\n<!-- raw HTML omitted -->\n",
