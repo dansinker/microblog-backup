@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dansinker.micro.blog/2026/06/06/the-new-global-forever-stamps.html",
+				
+				"content_html": "<p>The new global forever stamps are cool as hell.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The new global forever stamps are cool as hell. \n\n<img src=\"uploads/2026/571b31ea18.jpg\" width=\"600\" height=\"337\" alt=\"A hand holds an orange envelope with a colorful triangular stamp\">\n",
+				"date_published": "2026-06-06T11:00:51-05:00",
+				"url": "https://dansinker.micro.blog/2026/06/06/the-new-global-forever-stamps.html"
+			},
+			{
 				"id": "http://dansinker.micro.blog/2026/06/01/my-phone-just-reminded-me.html",
 				
 				"content_html": "<p>My phone just reminded me that six years ago Steve Albini reached out about me making some masks for the staff of Electrical Audio and I sent him back a bunch of pics of a prototype to determine placement for the logo. Didn&rsquo;t end up doing the thing, but so fun to play around. He&rsquo;s missed every day.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://dansinker.micro.blog/2026/05/19/stay-humble.html",
 				
 				"content_html": "<p>Stay humble.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stay humble.\n\n<img src=\"uploads/2026/d385528079.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Stay humble.\n\n<img src=\"https://dansinker.micro.blog/uploads/2026/d385528079.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-05-19T15:29:11-05:00",
 				"url": "https://dansinker.micro.blog/2026/05/19/stay-humble.html"
 			},
